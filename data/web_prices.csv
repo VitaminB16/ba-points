@@ -1,0 +1,546 @@
+city,price,cabin_mode
+Atlanta,613,Economy
+Austin,555,Economy
+Boston,374,Economy
+Chicago,495,Economy
+Cincinnati,532,Economy
+Dallas,773,Economy
+Denver,550,Economy
+Houston,787,Economy
+Las Vegas,488,Economy
+Los Angeles,448,Economy
+Miami,407,Economy
+Montreal,410,Economy
+Nashville,603,Economy
+New Orleans,623,Economy
+New York,348,Economy
+Orlando,372,Economy
+Philadelphia,467,Economy
+Phoenix,633,Economy
+Pittsburgh,554,Economy
+Portland,595,Economy
+San Diego,511,Economy
+San Francisco,475,Economy
+Seattle,531,Economy
+Tampa,352,Economy
+Toronto,432,Economy
+Vancouver,560,Economy
+Washington DC,598,Economy
+Atlanta,1056,Premium economy
+Austin,871,Premium economy
+Boston,890,Premium economy
+Chicago,911,Premium economy
+Cincinnati,998,Premium economy
+Dallas,1239,Premium economy
+Denver,866,Premium economy
+Houston,1103,Premium economy
+Las Vegas,1177,Premium economy
+Los Angeles,840,Premium economy
+Miami,940,Premium economy
+Montreal,929,Premium economy
+Nashville,969,Premium economy
+New Orleans,939,Premium economy
+New York,726,Premium economy
+Orlando,961,Premium economy
+Philadelphia,900,Premium economy
+Phoenix,1099,Premium economy
+Pittsburgh,959,Premium economy
+Portland,1011,Premium economy
+San Diego,1004,Premium economy
+San Francisco,791,Premium economy
+Seattle,892,Premium economy
+Tampa,961,Premium economy
+Toronto,835,Premium economy
+Vancouver,987,Premium economy
+Washington DC,1064,Premium economy
+Atlanta,2049,Business class
+Austin,2599,Business class
+Boston,2049,Business class
+Chicago,2384,Business class
+Cincinnati,2278,Business class
+Dallas,2428,Business class
+Denver,1899,Business class
+Houston,2928,Business class
+Las Vegas,2436,Business class
+Los Angeles,2375,Business class
+Miami,2051,Business class
+Montreal,2048,Business class
+Nashville,2049,Business class
+New Orleans,2124,Business class
+New York,1587,Business class
+Orlando,2165,Business class
+Philadelphia,2200,Business class
+Phoenix,2450,Business class
+Pittsburgh,2178,Business class
+Portland,2371,Business class
+San Diego,2550,Business class
+San Francisco,2468,Business class
+Seattle,2449,Business class
+Tampa,2212,Business class
+Toronto,1823,Business class
+Vancouver,2575,Business class
+Washington DC,2178,Business class
+Atlanta,2526,First class
+Boston,2976,First class
+Chicago,2832,First class
+Dallas,2897,First class
+Houston,3176,First class
+Las Vegas,3655,First class
+Los Angeles,5997,First class
+Miami,3279,First class
+New York,2514,First class
+San Francisco,4226,First class
+Seattle,2599,First class
+Vancouver,11515,First class
+Washington DC,2626,First class
+Antigua,457,Economy
+Aruba,497,Economy
+Bermuda,706,Economy
+Bridgetown (Barbados),507,Economy
+Buenos Aires,842,Economy
+Cancun,531,Economy
+Georgetown,547,Economy
+Grand Cayman,767,Economy
+Grenada,508,Economy
+Kingston,648,Economy
+Mexico City,722,Economy
+Nassau,686,Economy
+Port of Spain,527,Economy
+Providenciales,597,Economy
+Punta Cana,593,Economy
+Rio de Janeiro,663,Economy
+San Jose (Costa Rica),614,Economy
+Sao Paulo,690,Economy
+St Kitts,498,Economy
+St Lucia,507,Economy
+Tobago,498,Economy
+Antigua,957,Premium economy
+Aruba,957,Premium economy
+Bermuda,1266,Premium economy
+Bridgetown (Barbados),1107,Premium economy
+Buenos Aires,1328,Premium economy
+Cancun,899,Premium economy
+Georgetown,1007,Premium economy
+Grand Cayman,1207,Premium economy
+Grenada,968,Premium economy
+Kingston,1038,Premium economy
+Mexico City,1038,Premium economy
+Nassau,1146,Premium economy
+Port of Spain,937,Premium economy
+Providenciales,1197,Premium economy
+Punta Cana,1053,Premium economy
+Rio de Janeiro,1302,Premium economy
+San Jose (Costa Rica),1226,Premium economy
+Santiago,1488,Premium economy
+Sao Paulo,1182,Premium economy
+St Kitts,958,Premium economy
+St Lucia,967,Premium economy
+Tobago,958,Premium economy
+Antigua,2118,Business class
+Aruba,2505,Business class
+Bermuda,4262,Business class
+Bridgetown (Barbados),2012,Business class
+Buenos Aires,3270,Business class
+Cancun,2120,Business class
+Georgetown,2284,Business class
+Grand Cayman,2414,Business class
+Grenada,2269,Business class
+Kingston,1988,Business class
+Mexico City,2360,Business class
+Nassau,2288,Business class
+Port of Spain,2039,Business class
+Providenciales,2166,Business class
+Punta Cana,2050,Business class
+Rio de Janeiro,2836,Business class
+San Jose (Costa Rica),3265,Business class
+Santiago,2964,Business class
+Sao Paulo,2742,Business class
+St Kitts,2233,Business class
+St Lucia,2153,Business class
+Tobago,2208,Business class
+Bermuda,5562,First class
+Bridgetown (Barbados),4438,First class
+Mexico City,3186,First class
+Santiago,5204,First class
+Aberdeen,31,Economy
+Alicante,39,Economy
+Amsterdam,55,Economy
+Antalya,92,Economy
+Athens,53,Economy
+Barcelona,35,Economy
+Bari,81,Economy
+Basel,36,Economy
+Belfast,37,Economy
+Belgrade,102,Economy
+Bergerac,62,Economy
+Berlin,45,Economy
+Bilbao,58,Economy
+Billund,37,Economy
+Bodrum,97,Economy
+Bologna,40,Economy
+Bordeaux,37,Economy
+Brindisi,83,Economy
+Brussels,44,Economy
+Bucharest,49,Economy
+Budapest,50,Economy
+Catania,73,Economy
+Chambery,62,Economy
+Chania,85,Economy
+Cologne,46,Economy
+Copenhagen,40,Economy
+Corfu,66,Economy
+Corsica,56,Economy
+Crete,130,Economy
+Dalaman,86,Economy
+Dublin,26,Economy
+Dubrovnik,66,Economy
+Dusseldorf,48,Economy
+Edinburgh,33,Economy
+Faro,43,Economy
+Frankfurt,53,Economy
+Fuerteventura,58,Economy
+Funchal,74,Economy
+Geneva,44,Economy
+Gibraltar,37,Economy
+Glasgow,31,Economy
+Gothenburg,42,Economy
+Gran Canaria,60,Economy
+Hamburg,42,Economy
+Hannover,48,Economy
+Helsinki,141,Economy
+Innsbruck,54,Economy
+Inverness,34,Economy
+Isle of Man,117,Economy
+Istanbul,62,Economy
+Izmir,79,Economy
+Jersey,39,Economy
+Kalamata,76,Economy
+Kefalonia,74,Economy
+Kos,102,Economy
+Krakow,44,Economy
+Lanzarote,53,Economy
+Lapland,173,Economy
+Larnaca,58,Economy
+Lisbon,47,Economy
+Ljubljana,65,Economy
+Luxembourg,31,Economy
+Lyon,41,Economy
+Madrid,36,Economy
+Malaga,39,Economy
+Malta,55,Economy
+Manchester,36,Economy
+Marseille,42,Economy
+Menorca,37,Economy
+Milan,41,Economy
+Montpellier,45,Economy
+Munich,49,Economy
+Mykonos,61,Economy
+Naples,45,Economy
+Newcastle,31,Economy
+Nice,38,Economy
+Nuremberg,46,Economy
+Olbia,54,Economy
+Oslo,36,Economy
+Palermo,64,Economy
+Palma,37,Economy
+Paphos,70,Economy
+Paris,39,Economy
+Perugia,58,Economy
+Pisa,36,Economy
+Ponta Delgada,142,Economy
+Porto,46,Economy
+Prague,39,Economy
+Preveza Lefkada,68,Economy
+Pula,93,Economy
+Reykjavik,56,Economy
+Rhodes,91,Economy
+Riga,38,Economy
+Rome,54,Economy
+Rotterdam,76,Economy
+Salzburg,50,Economy
+San Sebastian,69,Economy
+Santorini (Thira),81,Economy
+Sardinia,41,Economy
+Seville,42,Economy
+Skiathos,169,Economy
+Sofia,45,Economy
+Split,73,Economy
+Stockholm,39,Economy
+Stuttgart,47,Economy
+Tenerife,62,Economy
+Thessaloniki,65,Economy
+Tirana,48,Economy
+Toulouse,40,Economy
+Tromso,47,Economy
+Turin,50,Economy
+Valencia,46,Economy
+Venice,47,Economy
+Verona,39,Economy
+Vienna,55,Economy
+Warsaw,40,Economy
+Zagreb,48,Economy
+Zakynthos Island,98,Economy
+Zurich,42,Economy
+Aberdeen,106,Business class
+Alicante,145,Business class
+Amsterdam,135,Business class
+Antalya,282,Business class
+Athens,221,Business class
+Barcelona,145,Business class
+Bari,254,Business class
+Basel,100,Business class
+Belfast,98,Business class
+Belgrade,194,Business class
+Bergerac,307,Business class
+Berlin,125,Business class
+Billund,101,Business class
+Bodrum,311,Business class
+Bologna,117,Business class
+Bordeaux,139,Business class
+Brindisi,240,Business class
+Brussels,109,Business class
+Bucharest,151,Business class
+Budapest,153,Business class
+Catania,256,Business class
+Chambery,153,Business class
+Chania,270,Business class
+Cologne,111,Business class
+Copenhagen,118,Business class
+Corfu,238,Business class
+Corsica,161,Business class
+Crete,313,Business class
+Dalaman,241,Business class
+Dublin,102,Business class
+Dubrovnik,197,Business class
+Dusseldorf,113,Business class
+Edinburgh,98,Business class
+Faro,184,Business class
+Frankfurt,116,Business class
+Fuerteventura,221,Business class
+Funchal,264,Business class
+Geneva,152,Business class
+Gibraltar,184,Business class
+Glasgow,96,Business class
+Gothenburg,113,Business class
+Gran Canaria,260,Business class
+Hamburg,108,Business class
+Hannover,114,Business class
+Helsinki,368,Business class
+Innsbruck,156,Business class
+Inverness,107,Business class
+Istanbul,212,Business class
+Izmir,294,Business class
+Jersey,115,Business class
+Kalamata,255,Business class
+Kefalonia,253,Business class
+Kos,267,Business class
+Krakow,124,Business class
+Lanzarote,225,Business class
+Lapland,375,Business class
+Larnaca,246,Business class
+Lisbon,153,Business class
+Ljubljana,160,Business class
+Luxembourg,95,Business class
+Lyon,120,Business class
+Madrid,168,Business class
+Malaga,149,Business class
+Malta,244,Business class
+Manchester,87,Business class
+Marseille,127,Business class
+Menorca,197,Business class
+Milan,146,Business class
+Montpellier,138,Business class
+Munich,125,Business class
+Mykonos,224,Business class
+Naples,172,Business class
+Newcastle,78,Business class
+Nuremberg,115,Business class
+Olbia,182,Business class
+Oslo,145,Business class
+Palermo,191,Business class
+Palma,149,Business class
+Paphos,264,Business class
+Paris,127,Business class
+Perugia,187,Business class
+Pisa,108,Business class
+Ponta Delgada,346,Business class
+Porto,172,Business class
+Prague,119,Business class
+Preveza Lefkada,206,Business class
+Pula,207,Business class
+Reykjavik,198,Business class
+Rhodes,261,Business class
+Riga,150,Business class
+Rome,196,Business class
+Rotterdam,140,Business class
+Salzburg,150,Business class
+San Sebastian,162,Business class
+Santorini (Thira),291,Business class
+Sardinia,145,Business class
+Seville,158,Business class
+Skiathos,311,Business class
+Sofia,196,Business class
+Split,202,Business class
+Stockholm,118,Business class
+Stuttgart,125,Business class
+Tenerife,239,Business class
+Thessaloniki,249,Business class
+Tirana,145,Business class
+Toulouse,121,Business class
+Tromso,155,Business class
+Turin,137,Business class
+Valencia,124,Business class
+Venice,153,Business class
+Verona,132,Business class
+Vienna,136,Business class
+Warsaw,124,Business class
+Zagreb,127,Business class
+Zakynthos Island,243,Business class
+Zurich,152,Business class
+Aberdeen,106,First class
+Alicante,145,First class
+Amsterdam,135,First class
+Antalya,282,First class
+Athens,221,First class
+Barcelona,145,First class
+Bari,254,First class
+Basel,100,First class
+Belfast,98,First class
+Belgrade,194,First class
+Bergerac,307,First class
+Berlin,125,First class
+Billund,101,First class
+Bodrum,311,First class
+Bologna,117,First class
+Bordeaux,139,First class
+Brindisi,240,First class
+Brussels,109,First class
+Bucharest,151,First class
+Budapest,153,First class
+Catania,256,First class
+Chambery,153,First class
+Chania,270,First class
+Cologne,111,First class
+Copenhagen,118,First class
+Corfu,238,First class
+Corsica,161,First class
+Crete,313,First class
+Dalaman,241,First class
+Dublin,102,First class
+Dubrovnik,197,First class
+Dusseldorf,113,First class
+Edinburgh,98,First class
+Faro,184,First class
+Frankfurt,116,First class
+Fuerteventura,221,First class
+Funchal,264,First class
+Geneva,152,First class
+Gibraltar,184,First class
+Glasgow,96,First class
+Gothenburg,113,First class
+Gran Canaria,260,First class
+Hamburg,108,First class
+Hannover,114,First class
+Helsinki,368,First class
+Bengaluru,485,Premium economy
+Chennai,543,Premium economy
+Hyderabad,475,Premium economy
+Mumbai,514,Premium economy
+New Delhi,421,Premium economy
+Bengaluru,997,Business class
+Chennai,1022,Business class
+Hyderabad,950,Business class
+Mumbai,850,Business class
+New Delhi,821,Business class
+Bengaluru,2299,First class
+Chennai,2545,First class
+Hyderabad,2299,First class
+Mumbai,2456,First class
+New Delhi,2270,First class
+Abu Dhabi,402,Economy
+Abuja,689,Economy
+Accra,553,Economy
+Agadir,95,Economy
+Algiers,205,Economy
+Amman,365,Economy
+Bahrain,566,Economy
+Cairo,319,Economy
+Doha,522,Economy
+Dubai,483,Economy
+Jeddah,632,Economy
+Johannesburg,705,Economy
+Kuwait,443,Economy
+Lagos,756,Economy
+Marrakech,103,Economy
+Nairobi,703,Economy
+Riyadh,728,Economy
+Sharm El Sheikh,268,Economy
+Tel Aviv,337,Economy
+Abu Dhabi,402,Premium economy
+Abuja,689,Premium economy
+Accra,553,Premium economy
+Agadir,95,Premium economy
+Algiers,205,Premium economy
+Amman,365,Premium economy
+Bahrain,566,Premium economy
+Cairo,319,Premium economy
+Doha,522,Premium economy
+Dubai,483,Premium economy
+Jeddah,632,Premium economy
+Johannesburg,705,Premium economy
+Kuwait,443,Premium economy
+Lagos,756,Premium economy
+Marrakech,103,Premium economy
+Abu Dhabi,859,Business class
+Abuja,1115,Business class
+Accra,792,Business class
+Bahrain,902,Business class
+Cape Town,1638,Business class
+Doha,766,Business class
+Dubai,859,Business class
+Jeddah,868,Business class
+Johannesburg,1411,Business class
+Kuwait,779,Business class
+Lagos,1182,Business class
+Nairobi,1222,Business class
+Riyadh,1141,Business class
+Abu Dhabi,2858,First class
+Abuja,4533,First class
+Bahrain,3934,First class
+Cape Town,5065,First class
+Doha,3490,First class
+Dubai,2900,First class
+Jeddah,3592,First class
+Johannesburg,4950,First class
+Kuwait,4788,First class
+Lagos,4879,First class
+Riyadh,6519,First class
+Bangkok,672,Economy
+Beijing,448,Economy
+Hong Kong,544,Economy
+Kuala Lumpur,624,Economy
+Shanghai,549,Economy
+Singapore,633,Economy
+Sydney,1138,Economy
+Tokyo,929,Economy
+Beijing,840,Premium economy
+Hong Kong,1173,Premium economy
+Kuala Lumpur,1143,Premium economy
+Shanghai,1045,Premium economy
+Singapore,1136,Premium economy
+Sydney,2809,Premium economy
+Tokyo,1513,Premium economy
+Bangkok,3123,Business class
+Beijing,1972,Business class
+Hong Kong,3053,Business class
+Kuala Lumpur,2874,Business class
+Shanghai,2428,Business class
+Singapore,2757,Business class
+Sydney,5523,Business class
+Tokyo,3250,Business class
+Hong Kong,4764,First class
+Kuala Lumpur,4002,First class
+Shanghai,3755,First class
+Singapore,4538,First class
+Sydney,6523,First class
+Tokyo,4605,First class

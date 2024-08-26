@@ -2,7 +2,6 @@
 **ignore/
 *.DS_Store
 *.ipynb
-*.csv
 *.jpg
 *.gif
 *.parquet
