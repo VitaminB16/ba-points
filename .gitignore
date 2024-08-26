@@ -1,0 +1,11 @@
+**__pycache__/
+**ignore/
+*.DS_Store
+*.ipynb
+*.csv
+*.jpg
+*.gif
+*.parquet
+*.ttf
+*.env*
+.vscode
