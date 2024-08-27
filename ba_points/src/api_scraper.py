@@ -6,7 +6,7 @@ from ba_points.config.vars import DESTINATIONS_PRICES_URL, CABIN_CODES
 def get_cabin_code_prices(cabin_code="M"):
     headers = {"User-Agent": "Mozilla/5.0"}
     params = {
-        "fq": f"departure_city:LON AND trip_type:RT AND number_of_nights:7 AND cabin:{cabin_code}"
+        "fq": f"departure_city:LON AND trip_type:RT AND number_of_nights:2 AND cabin:{cabin_code}"
     }
     response = requests.get(DESTINATIONS_PRICES_URL, headers=headers, params=params)
     results = response.json()
