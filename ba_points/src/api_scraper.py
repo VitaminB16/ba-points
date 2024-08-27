@@ -10,7 +10,6 @@ def get_cabin_code_prices(cabin_code="M"):
     }
     response = requests.get(DESTINATIONS_PRICES_URL, headers=headers, params=params)
     results = response.json()
-    header = results["responseHeader"]
     results = results["grouped"]["arr_city_name"]["doclist"]["docs"]
     return results
 
