@@ -1,0 +1,581 @@
+arr_city_name,cabin,tier_points
+Aberdeen,M,5
+Abu Dhabi,M,20
+Abuja,M,20
+Accra,M,20
+Agadir,M,10
+Algiers,M,10
+Alicante,M,5
+Almeria,M,5
+Amman,M,10
+Amsterdam,M,5
+Antalya,M,10
+Antigua,M,20
+Aruba,M,20
+Athens,M,10
+Atlanta,M,20
+Austin,M,20
+Bahrain,M,20
+Baltimore,M,20
+Bangkok,M,20
+Barbados,M,20
+Barcelona,M,5
+Bari,M,5
+Basel,M,5
+Beijing,M,20
+Belfast,M,5
+Belgrade,M,5
+Bengalaru,M,20
+Bergerac,M,5
+Berlin,M,5
+Bermuda,M,20
+Billund,M,5
+Bodrum,M,10
+Bologna,M,5
+Bordeaux,M,5
+Boston,M,20
+Brindisi,M,5
+Brussels,M,5
+Bucharest,M,10
+Budapest,M,5
+Buenos Aires,M,20
+Cagliari,M,5
+Cairo,M,10
+Cancun,M,20
+Cape Town,M,20
+Catania,M,10
+Chambery,M,5
+Chania,M,10
+Chennai,M,20
+Chicago,M,20
+Cincinnati,M,20
+Cologne,M,5
+Copenhagen,M,5
+Corfu,M,10
+Dalaman,M,10
+Dallas,M,20
+Delhi,M,20
+Denver,M,20
+Doha,M,20
+Dubai,M,20
+Dublin,M,5
+Dubrovnik,M,5
+Durban,M,20
+Dusseldorf,M,5
+Edinburgh,M,5
+Faro,M,5
+Figari,M,5
+Florence,M,5
+Frankfurt,M,5
+Fuerteventura,M,10
+Funchal,M,10
+Geneva,M,5
+Genoa,M,5
+Georgetown,M,20
+Gibraltar,M,5
+Glasgow,M,5
+Gothenburg,M,5
+Gran Canaria,M,10
+Granada,M,5
+Grand Cayman,M,20
+Grenada,M,20
+Grenoble,M,5
+Hamburg,M,5
+Hannover,M,5
+Heraklion,M,10
+Hong Kong,M,20
+Houston,M,20
+Hyderabad,M,20
+Ibiza,M,5
+Innsbruck,M,5
+Inverness,M,5
+Islamabad,M,20
+Istanbul,M,10
+Izmir,M,10
+Jersey,M,5
+Johannesburg,M,20
+Kalamata,M,10
+Kefalonia,M,10
+Kingston,M,20
+Kos,M,10
+Krakow,M,5
+Kuala Lumpur,M,20
+Kuwait,M,20
+Lagos,M,20
+Lanzarote,M,10
+Larnaca,M,10
+Las Vegas,M,20
+Limoges,M,5
+Lisbon,M,5
+Ljubljana,M,5
+Los Angeles,M,20
+Luxembourg,M,5
+Lyon,M,5
+Madrid,M,5
+Malaga,M,5
+Male,M,20
+Malta,M,10
+Manchester,M,5
+Marrakech,M,10
+Marseille,M,5
+Mauritius,M,20
+Menorca,M,5
+Mexico City,M,20
+Miami,M,20
+Milan,M,5
+Montpellier,M,5
+Montreal,M,20
+Mumbai,M,20
+Munich,M,5
+Mykonos,M,10
+Nairobi,M,20
+Nantes,M,5
+Naples,M,5
+Narita,M,20
+Nashville,M,20
+Nassau,M,20
+New Orleans,M,20
+New York,M,20
+Newcastle,M,5
+Nice,M,5
+Olbia,M,5
+Orlando,M,20
+Oslo,M,5
+Palermo,M,5
+Palma,M,5
+Paphos,M,10
+Paris,M,5
+Philadelphia,M,20
+Phoenix,M,20
+Pisa,M,5
+Pittsburgh,M,20
+Ponta Delgada,M,10
+Portland (Oregon),M,20
+Port of Spain,M,20
+Porto,M,5
+Prague,M,5
+Preveza,M,10
+Pula,M,5
+Punta Cana,M,20
+Reykjavik,M,10
+Rhodes,M,10
+Riga,M,5
+Rio De Janeiro,M,20
+Riyadh,M,20
+Rome,M,5
+Rotterdam,M,5
+Salzburg,M,5
+San Diego,M,20
+San Francisco,M,20
+San Jose (CA),M,20
+San Jose (C’Rica),M,20
+San Sebastian,M,5
+Santiago,M,20
+Santorini,M,10
+Sao Paulo,M,20
+Seattle,M,20
+Seville,M,5
+Shanghai,M,20
+Sharm El Sheikh,M,10
+Skiathos,M,10
+Singapore,M,20
+Sofia,M,10
+Split,M,5
+St Kitts,M,20
+St Lucia,M,20
+Stockholm,M,5
+Stuttgart,M,5
+Sydney,M,30
+Tampa,M,20
+Tel Aviv *,M,20
+Teneriffe,M,10
+Thessaloniki,M,10
+Tirana,M,10
+Tobago,M,20
+Tokyo,M,20
+Toronto,M,20
+Toulouse,M,5
+Turin,M,5
+Turks and Caicos,M,20
+Valencia,M,5
+Vancouver,M,20
+Venice,M,5
+Verona,M,5
+Vienna,M,5
+Warsaw,M,5
+Washington,M,20
+Zakynthos,M,10
+Zagreb,M,5
+Zurich,M,5
+Abu Dhabi,W,90
+Abuja,W,90
+Accra,W,90
+Antigua,W,90
+Aruba,W,90
+Atlanta,W,90
+Austin,W,90
+Bahrain,W,90
+Baltimore,W,90
+Bangkok,W,90
+Barbados,W,90
+Beijing,W,90
+Bengalaru,W,90
+Bermuda,W,90
+Boston,W,90
+Buenos Aires,W,100
+Cancun,W,90
+Cape Town,W,100
+Chennai,W,90
+Chicago,W,90
+Cincinnati,W,90
+Dallas,W,90
+Delhi,W,90
+Denver,W,90
+Doha,W,90
+Dubai,W,90
+Durban,W,90
+Georgetown,W,90
+Grand Cayman,W,90
+Grenada,W,90
+Hong Kong,W,100
+Houston,W,90
+Hyderabad,W,90
+Islamabad,W,90
+Johannesburg,W,90
+Kingston,W,90
+Kuala Lumpur,W,100
+Kuwait,W,90
+Lagos,W,90
+Las Vegas,W,90
+Los Angeles,W,90
+Male,W,90
+Mauritius,W,100
+Mexico City,W,90
+Miami,W,90
+Montreal,W,90
+Mumbai,W,90
+Nairobi,W,90
+Narita,W,100
+Nashville,W,90
+Nassau,W,90
+New Orleans,W,90
+New York,W,90
+Orlando,W,90
+Philadelphia,W,90
+Phoenix,W,90
+Pittsburgh,W,90
+Portland (Oregon),W,90
+Port of Spain,W,90
+Punta Cana,W,90
+Rio De Janeiro,W,90
+Riyadh,W,90
+San Diego,W,90
+San Francisco,W,90
+San Jose (CA),W,90
+San Jose (C’Rica),W,90
+Santiago,W,100
+Sao Paulo,W,90
+Seattle,W,90
+Shanghai,W,90
+Singapore,W,100
+St Kitts,W,90
+St Lucia,W,90
+Sydney,W,150
+Tampa,W,90
+Tel Aviv *,W,90
+Tobago,W,90
+Tokyo,W,100
+Toronto,W,90
+Turks and Caicos,W,90
+Vancouver,W,90
+Washington,W,90
+Aberdeen,C,40
+Abu Dhabi,C,140
+Abuja,C,140
+Accra,C,140
+Agadir,C,80
+Algiers,C,80
+Alicante,C,40
+Almeria,C,40
+Amman,C,80
+Amsterdam,C,40
+Antalya,C,80
+Antigua,C,140
+Aruba,C,140
+Athens,C,80
+Atlanta,C,140
+Austin,C,140
+Bahrain,C,140
+Baltimore,C,140
+Bangkok,C,140
+Barbados,C,140
+Barcelona,C,40
+Bari,C,40
+Basel,C,40
+Beijing,C,140
+Belfast,C,40
+Belgrade,C,40
+Bengalaru,C,140
+Bergerac,C,40
+Berlin,C,40
+Bermuda,C,140
+Billund,C,40
+Bodrum,C,80
+Bologna,C,40
+Bordeaux,C,40
+Boston,C,140
+Brindisi,C,40
+Brussels,C,40
+Bucharest,C,80
+Budapest,C,40
+Buenos Aires,C,160
+Cagliari,C,40
+Cairo,C,80
+Cancun,C,140
+Cape Town,C,160
+Catania,C,80
+Chambery,C,40
+Chania,C,80
+Chennai,C,140
+Chicago,C,140
+Cincinnati,C,140
+Cologne,C,40
+Copenhagen,C,40
+Corfu,C,80
+Dalaman,C,80
+Dallas,C,140
+Delhi,C,140
+Denver,C,140
+Doha,C,140
+Dubai,C,140
+Dublin,C,40
+Dubrovnik,C,40
+Durban,C,140
+Dusseldorf,C,40
+Edinburgh,C,40
+Faro,C,40
+Figari,C,40
+Florence,C,40
+Frankfurt,C,40
+Fuerteventura,C,80
+Funchal,C,80
+Geneva,C,40
+Genoa,C,40
+Georgetown,C,140
+Gibraltar,C,40
+Glasgow,C,40
+Gothenburg,C,40
+Gran Canaria,C,80
+Granada,C,40
+Grand Cayman,C,140
+Grenada,C,140
+Grenoble,C,40
+Hamburg,C,40
+Hannover,C,40
+Heraklion,C,80
+Hong Kong,C,160
+Houston,C,140
+Hyderabad,C,140
+Ibiza,C,40
+Innsbruck,C,40
+Inverness,C,40
+Islamabad,C,140
+Istanbul,C,80
+Izmir,C,80
+Jersey,C,40
+Johannesburg,C,140
+Kalamata,C,80
+Kefalonia,C,80
+Kingston,C,140
+Kos,C,80
+Krakow,C,40
+Kuala Lumpur,C,160
+Kuwait,C,140
+Lagos,C,140
+Lanzarote,C,80
+Larnaca,C,80
+Las Vegas,C,140
+Limoges,C,40
+Lisbon,C,40
+Ljubljana,C,40
+Los Angeles,C,140
+Luxembourg,C,40
+Lyon,C,40
+Madrid,C,40
+Malaga,C,40
+Male,C,140
+Malta,C,80
+Manchester,C,40
+Marrakech,C,80
+Marseille,C,40
+Mauritius,C,160
+Menorca,C,40
+Mexico City,C,140
+Miami,C,140
+Milan,C,40
+Montpellier,C,40
+Montreal,C,140
+Mumbai,C,140
+Munich,C,40
+Mykonos,C,80
+Nairobi,C,140
+Nantes,C,40
+Naples,C,40
+Narita,C,160
+Nashville,C,140
+Nassau,C,140
+New Orleans,C,140
+New York,C,140
+Newcastle,C,40
+Nice,C,40
+Olbia,C,40
+Orlando,C,140
+Oslo,C,40
+Palermo,C,40
+Palma,C,40
+Paphos,C,80
+Paris,C,40
+Philadelphia,C,140
+Phoenix,C,140
+Pisa,C,40
+Pittsburgh,C,140
+Ponta Delgada,C,80
+Portland (Oregon),C,140
+Port of Spain,C,140
+Porto,C,40
+Prague,C,40
+Preveza,C,80
+Pula,C,40
+Punta Cana,C,140
+Reykjavik,C,80
+Rhodes,C,80
+Riga,C,40
+Rio De Janeiro,C,140
+Riyadh,C,140
+Rome,C,40
+Rotterdam,C,40
+Salzburg,C,40
+San Diego,C,140
+San Francisco,C,140
+San Jose (CA),C,140
+San Jose (C’Rica),C,140
+San Sebastian,C,40
+Santiago,C,160
+Santorini,C,80
+Sao Paulo,C,140
+Seattle,C,140
+Seville,C,40
+Shanghai,C,140
+Sharm El Sheikh,C,80
+Skiathos,C,80
+Singapore,C,160
+Sofia,C,80
+Split,C,40
+St Kitts,C,140
+St Lucia,C,140
+Stockholm,C,40
+Stuttgart,C,40
+Sydney,C,240
+Tampa,C,140
+Tel Aviv *,C,140
+Teneriffe,C,80
+Thessaloniki,C,80
+Tirana,C,80
+Tobago,C,140
+Tokyo,C,160
+Toronto,C,140
+Toulouse,C,40
+Turin,C,40
+Turks and Caicos,C,140
+Valencia,C,40
+Vancouver,C,140
+Venice,C,40
+Verona,C,40
+Vienna,C,40
+Warsaw,C,40
+Washington,C,140
+Zakynthos,C,80
+Zagreb,C,40
+Zurich,C,40
+Abu Dhabi,F,210
+Abuja,F,210
+Accra,F,210
+Antigua,F,210
+Aruba,F,210
+Atlanta,F,210
+Austin,F,210
+Bahrain,F,210
+Baltimore,F,210
+Bangkok,F,210
+Barbados,F,210
+Beijing,F,210
+Bengalaru,F,210
+Bermuda,F,210
+Boston,F,210
+Buenos Aires,F,240
+Cancun,F,210
+Cape Town,F,240
+Chennai,F,210
+Chicago,F,210
+Cincinnati,F,210
+Dallas,F,210
+Delhi,F,210
+Denver,F,210
+Doha,F,210
+Dubai,F,210
+Durban,F,210
+Georgetown,F,210
+Grand Cayman,F,210
+Grenada,F,210
+Hong Kong,F,240
+Houston,F,210
+Hyderabad,F,210
+Islamabad,F,210
+Johannesburg,F,210
+Kingston,F,210
+Kuala Lumpur,F,240
+Kuwait,F,210
+Lagos,F,210
+Las Vegas,F,210
+Los Angeles,F,210
+Male,F,210
+Mauritius,F,240
+Mexico City,F,210
+Miami,F,210
+Montreal,F,210
+Mumbai,F,210
+Nairobi,F,210
+Narita,F,240
+Nashville,F,210
+Nassau,F,210
+New Orleans,F,210
+New York,F,210
+Orlando,F,210
+Philadelphia,F,210
+Phoenix,F,210
+Pittsburgh,F,210
+Portland (Oregon),F,210
+Port of Spain,F,210
+Punta Cana,F,210
+Rio De Janeiro,F,210
+Riyadh,F,210
+San Diego,F,210
+San Francisco,F,210
+San Jose (CA),F,210
+San Jose (C’Rica),F,210
+Santiago,F,240
+Sao Paulo,F,210
+Seattle,F,210
+Shanghai,F,210
+Singapore,F,240
+St Kitts,F,210
+St Lucia,F,210
+Sydney,F,360
+Tampa,F,210
+Tel Aviv *,F,210
+Tobago,F,210
+Tokyo,F,240
+Toronto,F,210
+Turks and Caicos,F,210
+Vancouver,F,210
+Washington,F,210
