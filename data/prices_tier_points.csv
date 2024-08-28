@@ -1,388 +1,391 @@
 proxy_price,rounded_lowest_each_way_price,number_of_nights,is_sales_fare,arr_city_name,trip_type,dep_lpf_city_airport_display,dep_airport_name,rounded_lowest_price,lowest_price,dep_city_name,arrival_airport,arr_lpf_city_airport_display,arrival_city,departure_airport,cabin,region_code,arr_airport_name,currency_code,tier_points,tier_points_per_pound
-N,34,2,N,Aberdeen,RT,London (Heathrow),Heathrow,68,67.02,London,ABZ,Aberdeen,ABZ,LHR,M,EUK,Aberdeen,GBP,5.0,0.15
-N,1919,2,N,Abuja,RT,London (Heathrow),Heathrow,3838,3837.69,London,ABV,Abuja,ABV,LHR,M,AFR,Abuja,GBP,20.0,0.01
-N,289,2,N,Accra,RT,London (Heathrow),Heathrow,578,577.89,London,ACC,Accra,ACC,LHR,M,AFR,Accra,GBP,20.0,0.07
-N,104,2,N,Algiers,RT,London (Gatwick),Gatwick,208,207.58,London,ALG,Algiers,ALG,LGW,M,AFR,Algiers,GBP,10.0,0.1
-N,39,2,N,Alicante,RT,London (Gatwick),Gatwick,78,77.18,London,ALC,Alicante,ALC,LGW,M,EUK,Alicante,GBP,5.0,0.13
-N,183,2,N,Amman,RT,London (Heathrow),Heathrow,365,364.59,London,AMM,Amman,AMM,LHR,M,MDE,Amman,GBP,10.0,0.05
-N,57,2,N,Amsterdam,RT,London (Heathrow),Heathrow,113,112.59,London,AMS,Amsterdam,AMS,LHR,M,EUK,Amsterdam,GBP,5.0,0.09
-N,100,2,N,Antalya,RT,London (Gatwick),Gatwick,199,198.38,London,AYT,Antalya,AYT,LGW,M,EUK,Antalya,GBP,10.0,0.1
-N,228,2,N,Antigua,RT,London (Gatwick),Gatwick,456,455.78,London,ANU,Antigua,ANU,LGW,M,SOA,Antigua,GBP,20.0,0.09
-N,53,2,N,Athens,RT,London (Heathrow),Heathrow,106,105.89,London,ATH,Athens,ATH,LHR,M,EUK,Athens,GBP,10.0,0.19
-N,352,2,N,Atlanta,RT,London (Heathrow),Heathrow,703,702.09,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,M,NOA,Hartsfield-Jackson Int,GBP,20.0,0.06
-N,281,2,N,Austin,RT,London (Heathrow),Heathrow,561,560.09,London,AUS,Austin,AUS,LHR,M,NOA,Austin-Bergstrom Intl,GBP,20.0,0.07
-N,1080,2,N,Bahrain,RT,London (Heathrow),Heathrow,2160,2159.99,London,BAH,Bahrain,BAH,LHR,M,MDE,Bahrain,GBP,20.0,0.02
-N,36,2,N,Barcelona,RT,London (Heathrow),Heathrow,72,71.09,London,BCN,Barcelona,BCN,LHR,M,EUK,Barcelona,GBP,5.0,0.14
-N,72,2,N,Bari,RT,London (Gatwick),Gatwick,144,143.88,London,BRI,Bari,BRI,LGW,M,EUK,Bari,GBP,5.0,0.07
-N,38,2,N,Basel,RT,London (Heathrow),Heathrow,76,75.49,London,BSL,Basel,BSL,LHR,M,EUK,Basel,GBP,5.0,0.13
-N,284,2,N,Beijing,RT,London (Heathrow),Heathrow,568,567.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,M,FEA,Beijing Daxing Intl,GBP,20.0,0.07
-N,39,2,N,Belfast,RT,London (Heathrow),Heathrow,77,76.16,London,BHD,Belfast (Belfast City Airport),BFS,LHR,M,EUK,Belfast City Airport,GBP,5.0,0.13
-N,37,2,N,Billund,RT,London (Heathrow),Heathrow,73,72.69,London,BLL,Billund,BLL,LHR,M,EUK,Billund,GBP,5.0,0.14
-N,42,2,N,Bologna,RT,London (Heathrow),Heathrow,83,82.29,London,BLQ,Bologna,BLQ,LHR,M,EUK,Bologna,GBP,5.0,0.12
-N,37,2,N,Bordeaux,RT,London (Gatwick),Gatwick,74,73.28,London,BOD,Bordeaux,BOD,LGW,M,EUK,Bordeaux,GBP,5.0,0.14
-N,202,2,N,Boston,RT,London (Heathrow),Heathrow,404,403.09,London,BOS,Boston,BOS,LHR,M,NOA,Logan International,GBP,20.0,0.1
-N,45,2,N,Brussels,RT,London (Heathrow),Heathrow,90,89.69,London,BRU,Brussels,BRU,LHR,M,EUK,Brussels,GBP,5.0,0.11
-N,49,2,N,Bucharest,RT,London (Heathrow),Heathrow,97,96.89,London,OTP,Bucharest,BUH,LHR,M,EUK,Bucharest,GBP,10.0,0.2
-N,50,2,N,Budapest,RT,London (Heathrow),Heathrow,100,99.59,London,BUD,Budapest,BUD,LHR,M,EUK,Budapest,GBP,5.0,0.1
-N,437,2,N,Buenos Aires,RT,London (Heathrow),Heathrow,874,873.19,London,EZE,Buenos Aires,BUE,LHR,M,SOA,Buenos Aires,GBP,20.0,0.05
-N,159,2,N,Cairo,RT,London (Heathrow),Heathrow,318,317.79,London,CAI,Cairo,CAI,LHR,M,AFR,Cairo,GBP,10.0,0.06
-N,290,2,N,Cancun,RT,London (Gatwick),Gatwick,580,579.88,London,CUN,Cancun,CUN,LGW,M,SOA,Cancun International,GBP,20.0,0.07
-N,449,2,N,Cape Town,RT,London (Heathrow),Heathrow,897,896.69,London,CPT,Cape Town,CPT,LHR,M,AFR,Cape Town,GBP,20.0,0.04
-N,73,2,N,Catania,RT,London (Gatwick),Gatwick,146,145.98,London,CTA,Catania,CTA,LGW,M,EUK,Catania,GBP,10.0,0.14
-Y,73,2,N,Chambery,RT,London (City Airport),City Airport,145,144.79,London,CMF,Chambery,CMF,LCY,M,EUK,Chambery,GBP,5.0,0.07
-N,272,2,N,Chennai,RT,London (Heathrow),Heathrow,543,542.19,London,MAA,Chennai,MAA,LHR,M,SAS,Chennai,GBP,20.0,0.07
-N,262,2,N,Chicago,RT,London (Heathrow),Heathrow,524,523.59,London,ORD,Chicago (O'Hare International),CHI,LHR,M,NOA,O'Hare International,GBP,20.0,0.08
-N,284,2,N,Cincinnati,RT,London (Heathrow),Heathrow,568,567.59,London,CVG,Cincinnati (Cincinnati/N Kentucky International),CVG,LHR,M,NOA,Cincinnati/N Kentucky International,GBP,20.0,0.07
-N,47,2,N,Cologne,RT,London (Heathrow),Heathrow,93,92.59,London,CGN,Cologne (Cologne/Bonn),CGN,LHR,M,EUK,Cologne/Bonn,GBP,5.0,0.11
-N,43,2,N,Copenhagen,RT,London (Heathrow),Heathrow,85,84.19,London,CPH,Copenhagen,CPH,LHR,M,EUK,Copenhagen,GBP,5.0,0.12
-Y,68,2,N,Corfu,RT,London (Heathrow),Heathrow,135,134.79,London,CFU,Corfu,CFU,LHR,M,EUK,Ioannis Kapodistrias,GBP,10.0,0.15
-N,88,2,N,Dalaman,RT,London (Gatwick),Gatwick,175,174.38,London,DLM,Dalaman,DLM,LGW,M,EUK,Dalaman,GBP,10.0,0.11
-N,401,2,N,Dallas,RT,London (Heathrow),Heathrow,802,801.59,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,M,NOA,Dallas Ft Worth,GBP,20.0,0.05
-N,295,2,N,Denver,RT,London (Heathrow),Heathrow,589,588.59,London,DEN,Denver (Denver International),DEN,LHR,M,NOA,Denver International,GBP,20.0,0.07
-N,286,2,N,Doha,RT,London (Heathrow),Heathrow,571,570.99,London,DOH,Doha,DOH,LHR,M,MDE,Doha,GBP,20.0,0.07
-N,1306,2,N,Dubai,RT,London (Heathrow),Heathrow,2611,2610.59,London,DXB,Dubai,DXB,LHR,M,MDE,Dubai,GBP,20.0,0.02
-N,27,2,N,Dublin,RT,London (Heathrow),Heathrow,53,52.14,London,DUB,Dublin,DUB,LHR,M,EUK,Dublin,GBP,5.0,0.19
-N,66,2,N,Dubrovnik,RT,London (Gatwick),Gatwick,132,131.28,London,DBV,Dubrovnik,DBV,LGW,M,EUK,Dubrovnik,GBP,5.0,0.08
-N,50,2,N,Dusseldorf,RT,London (Heathrow),Heathrow,99,98.59,London,DUS,Dusseldorf,DUS,LHR,M,EUK,Dusseldorf,GBP,5.0,0.1
-N,36,2,N,Edinburgh,RT,London (Heathrow),Heathrow,71,70.41,London,EDI,Edinburgh,EDI,LHR,M,EUK,Edinburgh,GBP,5.0,0.14
-N,43,2,N,Faro,RT,London (Gatwick),Gatwick,86,85.18,London,FAO,Faro,FAO,LGW,M,EUK,Faro,GBP,5.0,0.12
-N,58,2,N,Florence,RT,London (City Airport),City Airport,115,114.99,London,FLR,Florence,FLR,LCY,M,EUK,Peretola,GBP,5.0,0.09
-N,53,2,N,Frankfurt,RT,London (Heathrow),Heathrow,106,105.99,London,FRA,Frankfurt,FRA,LHR,M,EUK,Frankfurt,GBP,5.0,0.09
-N,81,2,N,Funchal,RT,London (Gatwick),Gatwick,161,160.48,London,FNC,Funchal,FNC,LGW,M,EUK,Madeira,GBP,10.0,0.12
-N,43,2,N,Geneva,RT,London (Gatwick),Gatwick,85,84.78,London,GVA,Geneva,GVA,LGW,M,EUK,Geneva,GBP,5.0,0.12
-N,39,2,N,Gibraltar,RT,London (Heathrow),Heathrow,77,76.99,London,GIB,Gibraltar,GIB,LHR,M,EUK,Gibraltar,GBP,5.0,0.13
-N,34,2,N,Glasgow,RT,London (Heathrow),Heathrow,68,67.42,London,GLA,Glasgow,GLA,LHR,M,EUK,Glasgow,GBP,5.0,0.15
-N,42,2,N,Gothenburg,RT,London (Heathrow),Heathrow,84,83.19,London,GOT,Gothenburg,GOT,LHR,M,EUK,Gothenburg,GBP,5.0,0.12
-N,60,2,N,Gran Canaria,RT,London (Gatwick),Gatwick,119,118.18,London,LPA,Gran Canaria,LPA,LGW,M,EUK,Gran Canaria,GBP,10.0,0.17
-N,384,2,N,Grand Cayman,RT,London (Heathrow),Heathrow,767,766.29,London,GCM,Grand Cayman,GCM,LHR,M,SOA,Grand Cayman,GBP,20.0,0.05
-Y,254,2,N,Grenada,RT,London (Gatwick),Gatwick,508,507.28,London,GND,Grenada,GND,LGW,M,SOA,Grenada,GBP,20.0,0.08
-N,44,2,N,Hamburg,RT,London (Heathrow),Heathrow,87,86.09,London,HAM,Hamburg,HAM,LHR,M,EUK,Hamburg,GBP,5.0,0.11
-N,50,2,N,Hannover,RT,London (Heathrow),Heathrow,100,99.79,London,HAJ,Hannover (Hannover),HAJ,LHR,M,EUK,Hannover,GBP,5.0,0.1
-N,341,2,N,Hong Kong,RT,London (Heathrow),Heathrow,681,680.79,London,HKG,Hong Kong,HKG,LHR,M,FEA,Hong Kong,GBP,20.0,0.06
-N,413,2,N,Houston,RT,London (Heathrow),Heathrow,826,825.59,London,IAH,Houston (George Bush Intercont),HOU,LHR,M,NOA,George Bush Intercont,GBP,20.0,0.05
-N,276,2,N,Hyderabad,RT,London (Heathrow),Heathrow,551,550.79,London,HYD,Hyderabad,HYD,LHR,M,SAS,Rajiv Gandhi Intl,GBP,20.0,0.07
-N,41,2,N,Ibiza,RT,London (Gatwick),Gatwick,82,81.48,London,IBZ,Ibiza,IBZ,LGW,M,EUK,Ibiza,GBP,5.0,0.12
-N,55,2,N,Innsbruck,RT,London (Gatwick),Gatwick,110,109.88,London,INN,Innsbruck (Kranebitten),INN,LGW,M,EUK,Kranebitten,GBP,5.0,0.09
-Y,294,2,N,Islamabad,RT,London (Gatwick),Gatwick,587,586.68,London,ISB,Islamabad,ISB,LGW,M,SAS,Islamabad,GBP,20.0,0.07
-N,66,2,N,Istanbul,RT,London (Heathrow),Heathrow,131,130.29,London,IST,Istanbul (Istanbul Airport),IST,LHR,M,EUK,Istanbul Airport,GBP,10.0,0.15
-N,43,2,N,Jersey,RT,London (Gatwick),Gatwick,85,84.82,London,JER,Jersey,JER,LGW,M,EUK,Jersey,GBP,5.0,0.12
-N,360,2,N,Johannesburg,RT,London (Heathrow),Heathrow,720,719.69,London,JNB,Johannesburg,JNB,LHR,M,AFR,Johannesburg,GBP,20.0,0.06
-N,324,2,N,Kingston,RT,London (Gatwick),Gatwick,647,646.18,London,KIN,Kingston,KIN,LGW,M,SOA,Kingston,GBP,20.0,0.06
-Y,148,2,N,Kos,RT,London (Heathrow),Heathrow,295,294.69,London,KGS,Kos,KGS,LHR,M,EUK,Kos,GBP,10.0,0.07
-N,48,2,N,Krakow,RT,London (Heathrow),Heathrow,95,94.09,London,KRK,Krakow,KRK,LHR,M,EUK,Krakow,GBP,5.0,0.1
-N,1168,2,N,Kuwait,RT,London (Heathrow),Heathrow,2336,2335.39,London,KWI,Kuwait,KWI,LHR,M,MDE,Kuwait,GBP,20.0,0.02
-N,1870,2,N,Lagos,RT,London (Heathrow),Heathrow,3740,3739.69,London,LOS,Lagos,LOS,LHR,M,AFR,Lagos,GBP,20.0,0.01
-N,55,2,N,Lanzarote,RT,London (Gatwick),Gatwick,110,109.48,London,ACE,Lanzarote,ACE,LGW,M,EUK,Arrecife,GBP,10.0,0.18
-N,58,2,N,Larnaca,RT,London (Gatwick),Gatwick,116,115.68,London,LCA,Larnaca,LCA,LGW,M,EUK,Larnaca,GBP,10.0,0.17
-N,278,2,N,Las Vegas,RT,London (Gatwick),Gatwick,556,555.38,London,LAS,Las Vegas (Harry Reid Intl),LAS,LGW,M,NOA,Harry Reid Intl,GBP,20.0,0.07
-N,50,2,N,Lisbon,RT,London (Heathrow),Heathrow,100,99.09,London,LIS,Lisbon,LIS,LHR,M,EUK,Lisbon,GBP,5.0,0.1
-N,65,2,N,Ljubljana,RT,London (Heathrow),Heathrow,130,129.39,London,LJU,Ljubljana,LJU,LHR,M,EUK,Joze Pucnik,GBP,5.0,0.08
-N,239,2,N,Los Angeles,RT,London (Heathrow),Heathrow,477,476.59,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,M,NOA,Los Angeles International,GBP,20.0,0.08
-N,31,2,N,Luxembourg,RT,London (Heathrow),Heathrow,62,61.89,London,LUX,Luxembourg,LUX,LHR,M,EUK,Luxembourg,GBP,5.0,0.16
-N,43,2,N,Lyon,RT,London (Heathrow),Heathrow,86,85.89,London,LYS,Lyon (Saint Exupery),LYS,LHR,M,EUK,Saint Exupery,GBP,5.0,0.12
-N,36,2,N,Madrid,RT,London (Heathrow),Heathrow,72,71.89,London,MAD,Madrid,MAD,LHR,M,EUK,Madrid,GBP,5.0,0.14
-N,39,2,N,Malaga,RT,London (Heathrow),Heathrow,77,76.99,London,AGP,Malaga,AGP,LHR,M,EUK,Malaga,GBP,5.0,0.13
-N,351,2,N,Male,RT,London (Heathrow),Heathrow,701,700.29,London,MLE,Male (Male International),MLE,LHR,M,SAS,Male International,GBP,20.0,0.06
-N,55,2,N,Malta,RT,London (Gatwick),Gatwick,109,108.18,London,MLA,Malta,MLA,LGW,M,EUK,Luqa International,GBP,10.0,0.18
-N,38,2,N,Manchester,RT,London (Heathrow),Heathrow,75,74.52,London,MAN,Manchester,MAN,LHR,M,EUK,Manchester,GBP,5.0,0.13
-N,52,2,N,Marrakech,RT,London (Gatwick),Gatwick,103,102.58,London,RAK,Marrakech,RAK,LGW,M,AFR,Marrakech,GBP,10.0,0.19
-N,44,2,N,Marseille,RT,London (Heathrow),Heathrow,88,87.19,London,MRS,Marseille,MRS,LHR,M,EUK,Marseille,GBP,5.0,0.11
-N,378,2,N,Mexico City,RT,London (Heathrow),Heathrow,756,755.89,London,MEX,Mexico City (Mexico),MEX,LHR,M,SOA,Mexico,GBP,20.0,0.05
-N,220,2,N,Miami,RT,London (Heathrow),Heathrow,439,438.09,London,MIA,Miami (Miami International),MIA,LHR,M,NOA,Miami International,GBP,20.0,0.09
-N,43,2,N,Milan,RT,London (Heathrow),Heathrow,86,85.89,London,MXP,Milan (Malpensa),MIL,LHR,M,EUK,Malpensa,GBP,5.0,0.12
-N,205,2,N,Montreal,RT,London (Heathrow),Heathrow,410,409.89,London,YUL,Montreal,YMQ,LHR,M,NOA,Montreal,GBP,20.0,0.1
-N,257,2,N,Mumbai,RT,London (Heathrow),Heathrow,514,513.39,London,BOM,Mumbai,BOM,LHR,M,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,20.0,0.08
-N,51,2,N,Munich,RT,London (Heathrow),Heathrow,102,101.79,London,MUC,Munich,MUC,LHR,M,EUK,Munich,GBP,5.0,0.1
-Y,74,2,N,Mykonos,RT,London (Heathrow),Heathrow,148,147.69,London,JMK,Mykonos,JMK,LHR,M,EUK,Mykonos,GBP,10.0,0.14
-N,351,2,N,Nairobi,RT,London (Heathrow),Heathrow,702,701.69,London,NBO,Nairobi,NBO,LHR,M,AFR,Nairobi,GBP,20.0,0.06
-N,319,2,N,Nashville,RT,London (Heathrow),Heathrow,638,637.09,London,BNA,Nashville,BNA,LHR,M,NOA,Nashville International,GBP,20.0,0.06
-N,343,2,N,Nassau,RT,London (Heathrow),Heathrow,686,685.39,London,NAS,Nassau,NAS,LHR,M,SOA,Nassau,GBP,20.0,0.06
-N,346,2,N,New Orleans,RT,London (Heathrow),Heathrow,692,691.09,London,MSY,New Orleans,MSY,LHR,M,NOA,Louis Armstrong International,GBP,20.0,0.06
-N,202,2,N,New York,RT,London (Heathrow),Heathrow,404,403.09,London,JFK,New York (John F Kennedy),NYC,LHR,M,NOA,John F Kennedy,GBP,20.0,0.1
-N,33,2,N,Newcastle,RT,London (Heathrow),Heathrow,66,65.41,London,NCL,Newcastle,NCL,LHR,M,EUK,Newcastle International,GBP,5.0,0.15
-N,41,2,N,Nice,RT,London (Heathrow),Heathrow,81,80.59,London,NCE,Nice,NCE,LHR,M,EUK,Nice,GBP,5.0,0.12
-Y,58,2,N,Olbia,RT,London (Heathrow),Heathrow,115,114.89,London,OLB,Olbia,OLB,LHR,M,EUK,Olbia,GBP,5.0,0.09
-N,201,2,N,Orlando,RT,London (Gatwick),Gatwick,401,400.88,London,MCO,Orlando,ORL,LGW,M,NOA,Orlando International,GBP,20.0,0.1
-N,37,2,N,Oslo,RT,London (Heathrow),Heathrow,73,72.59,London,OSL,Oslo,OSL,LHR,M,EUK,Oslo,GBP,5.0,0.14
-N,55,2,N,Palma,RT,London (Heathrow),Heathrow,110,109.99,London,PMI,Palma,PMI,LHR,M,EUK,Palma,GBP,5.0,0.09
-N,73,2,N,Paphos,RT,London (Gatwick),Gatwick,146,145.98,London,PFO,Paphos,PFO,LGW,M,EUK,Paphos,GBP,10.0,0.14
-N,42,2,N,Paris,RT,London (Heathrow),Heathrow,83,82.39,London,CDG,Paris (Charles de Gaulle),PAR,LHR,M,EUK,Charles de Gaulle,GBP,5.0,0.12
-N,249,2,N,Philadelphia,RT,London (Heathrow),Heathrow,497,496.09,London,PHL,Philadelphia,PHL,LHR,M,NOA,Philadelphia International,GBP,20.0,0.08
-N,333,2,N,Phoenix,RT,London (Heathrow),Heathrow,665,664.09,London,PHX,Phoenix (Sky Harbor International),PHX,LHR,M,NOA,Sky Harbor International,GBP,20.0,0.06
-N,36,2,N,Pisa,RT,London (Heathrow),Heathrow,72,71.69,London,PSA,Pisa,PSA,LHR,M,EUK,Pisa,GBP,5.0,0.14
-Y,152,2,N,Ponta Delgada,RT,London (Heathrow),Heathrow,304,303.29,London,PDL,Ponta Delgada,PDL,LHR,M,EUK,Ponta Delgada,GBP,10.0,0.07
-N,354,2,N,Port of Spain,RT,London (Gatwick),Gatwick,708,707.38,London,POS,Port of Spain,POS,LGW,M,SOA,Port of Spain,GBP,20.0,0.06
-N,40,2,N,Prague,RT,London (Heathrow),Heathrow,80,79.59,London,PRG,Prague,PRG,LHR,M,EUK,Prague,GBP,5.0,0.12
-N,297,2,N,Punta Cana,RT,London (Gatwick),Gatwick,593,592.08,London,PUJ,Punta Cana,PUJ,LGW,M,SOA,Punta Cana,GBP,20.0,0.07
-N,57,2,N,Reykjavik,RT,London (Heathrow),Heathrow,114,113.79,London,KEF,Reykjavik (Keflavik),REK,LHR,M,EUK,Keflavik,GBP,10.0,0.18
-N,91,2,N,Rhodes,RT,London (Gatwick),Gatwick,182,181.88,London,RHO,Rhodes,RHO,LGW,M,EUK,Rhodes,GBP,10.0,0.11
-N,39,2,N,Riga,RT,London (Heathrow),Heathrow,77,76.59,London,RIX,Riga,RIX,LHR,M,EUK,Riga,GBP,5.0,0.13
-N,1241,2,N,Riyadh,RT,London (Heathrow),Heathrow,2481,2480.29,London,RUH,Riyadh,RUH,LHR,M,MDE,King Khalid International,GBP,20.0,0.02
-N,54,2,N,Rome,RT,London (Heathrow),Heathrow,107,106.79,London,FCO,Rome (Fiumicino),ROM,LHR,M,EUK,Fiumicino,GBP,5.0,0.09
-N,76,2,N,Rotterdam,RT,London (City Airport),City Airport,152,151.19,London,RTM,Rotterdam,RTM,LCY,M,EUK,Rotterdam,GBP,5.0,0.07
-N,50,2,N,Salzburg,RT,London (Gatwick),Gatwick,99,98.28,London,SZG,Salzburg,SZG,LGW,M,EUK,Salzburg,GBP,5.0,0.1
-N,263,2,N,San Diego,RT,London (Heathrow),Heathrow,525,524.09,London,SAN,San Diego,SAN,LHR,M,NOA,San Diego International,GBP,20.0,0.08
-N,242,2,N,San Francisco,RT,London (Heathrow),Heathrow,483,482.59,London,SFO,San Francisco,SFO,LHR,M,NOA,San Francisco International,GBP,20.0,0.08
-Y,97,2,N,San Sebastian,RT,London (City Airport),City Airport,193,192.89,London,EAS,San Sebastian,EAS,LCY,M,EUK,San Sebastian,GBP,5.0,0.05
-Y,412,2,N,Santiago,RT,London (Heathrow),Heathrow,823,822.99,London,SCL,Santiago,SCL,LHR,M,SOA,Santiago,GBP,20.0,0.05
-N,345,2,N,Sao Paulo,RT,London (Heathrow),Heathrow,690,689.49,London,GRU,Sao Paulo (Guarulhos Intl),SAO,LHR,M,SOA,Guarulhos Intl,GBP,20.0,0.06
-N,285,2,N,Seattle,RT,London (Heathrow),Heathrow,570,569.09,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,M,NOA,Seattle-Tacoma International,GBP,20.0,0.07
-N,42,2,N,Seville,RT,London (Gatwick),Gatwick,83,82.48,London,SVQ,Seville,SVQ,LGW,M,EUK,Seville,GBP,5.0,0.12
-N,288,2,N,Shanghai,RT,London (Heathrow),Heathrow,576,575.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,M,FEA,Shanghai Pudong,GBP,20.0,0.07
-N,323,2,N,Singapore,RT,London (Heathrow),Heathrow,645,644.89,London,SIN,Singapore (Changi),SIN,LHR,M,FEA,Changi,GBP,20.0,0.06
-N,46,2,N,Sofia,RT,London (Heathrow),Heathrow,92,91.49,London,SOF,Sofia,SOF,LHR,M,EUK,Sofia,GBP,10.0,0.22
-Y,62,2,N,Split,RT,London (Heathrow),Heathrow,123,122.69,London,SPU,Split,SPU,LHR,M,EUK,Split,GBP,5.0,0.08
-Y,249,2,N,St Kitts,RT,London (Gatwick),Gatwick,497,496.78,London,SKB,St Kitts,SKB,LGW,M,SOA,Robert L Bradshaw International,GBP,20.0,0.08
-N,273,2,N,St Lucia,RT,London (Gatwick),Gatwick,546,545.48,London,UVF,St Lucia,SLU,LGW,M,SOA,St Lucia,GBP,20.0,0.07
-N,40,2,N,Stockholm,RT,London (Heathrow),Heathrow,80,79.39,London,ARN,Stockholm (Arlanda),STO,LHR,M,EUK,Arlanda,GBP,5.0,0.12
-N,48,2,N,Stuttgart,RT,London (Heathrow),Heathrow,95,94.39,London,STR,Stuttgart,STR,LHR,M,EUK,Stuttgart,GBP,5.0,0.1
-N,589,2,N,Sydney,RT,London (Heathrow),Heathrow,1178,1177.49,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,M,FEA,Sydney Kingsford Smith,GBP,30.0,0.05
-N,194,2,N,Tampa,RT,London (Gatwick),Gatwick,388,387.88,London,TPA,Tampa (Tampa International),TPA,LGW,M,NOA,Tampa International,GBP,20.0,0.1
-N,78,2,N,Thessaloniki,RT,London (Gatwick),Gatwick,155,154.98,London,SKG,Thessaloniki,SKG,LGW,M,EUK,Thessaloniki,GBP,10.0,0.13
-Y,249,2,N,Tobago,RT,London (Gatwick),Gatwick,498,497.08,London,TAB,Tobago,TAB,LGW,M,SOA,Tobago,GBP,20.0,0.08
-N,465,2,N,Tokyo,RT,London (Heathrow),Heathrow,929,928.59,London,HND,Tokyo (Haneda),TYO,LHR,M,FEA,Haneda,GBP,20.0,0.04
-N,229,2,N,Toronto,RT,London (Heathrow),Heathrow,458,457.29,London,YYZ,Toronto,YTO,LHR,M,NOA,Toronto,GBP,20.0,0.09
-N,40,2,N,Toulouse,RT,London (Heathrow),Heathrow,79,78.89,London,TLS,Toulouse,TLS,LHR,M,EUK,Toulouse,GBP,5.0,0.12
-N,50,2,N,Turin,RT,London (Gatwick),Gatwick,100,99.08,London,TRN,Turin,TRN,LGW,M,EUK,Turin,GBP,5.0,0.1
-N,308,2,N,Vancouver,RT,London (Heathrow),Heathrow,616,615.89,London,YVR,Vancouver,YVR,LHR,M,NOA,Vancouver,GBP,20.0,0.06
-N,47,2,N,Venice,RT,London (Heathrow),Heathrow,93,92.59,London,VCE,Venice (Marco Polo),VCE,LHR,M,EUK,Marco Polo,GBP,5.0,0.11
-N,42,2,N,Verona,RT,London (Gatwick),Gatwick,83,82.98,London,VRN,Verona,VRN,LGW,M,EUK,Valerio Catullo,GBP,5.0,0.12
-N,56,2,N,Vienna,RT,London (Heathrow),Heathrow,112,111.89,London,VIE,Vienna,VIE,LHR,M,EUK,Vienna,GBP,5.0,0.09
-N,41,2,N,Warsaw,RT,London (Heathrow),Heathrow,81,80.49,London,WAW,Warsaw,WAW,LHR,M,EUK,Warsaw,GBP,5.0,0.12
-N,50,2,N,Zagreb,RT,London (Heathrow),Heathrow,99,98.49,London,ZAG,Zagreb,ZAG,LHR,M,EUK,Zagreb,GBP,5.0,0.1
-N,43,2,N,Zurich,RT,London (Heathrow),Heathrow,86,85.19,London,ZRH,Zurich,ZRH,LHR,M,EUK,Zurich,GBP,5.0,0.12
-N,1226,2,N,Abuja,RT,London (Heathrow),Heathrow,2451,2450.69,London,ABV,Abuja,ABV,LHR,W,AFR,Abuja,GBP,90.0,0.07
-N,399,2,N,Accra,RT,London (Heathrow),Heathrow,798,797.79,London,ACC,Accra,ACC,LHR,W,AFR,Accra,GBP,90.0,0.23
-N,478,2,N,Antigua,RT,London (Gatwick),Gatwick,956,955.78,London,ANU,Antigua,ANU,LGW,W,SOA,Antigua,GBP,90.0,0.19
-N,543,2,N,Atlanta,RT,London (Heathrow),Heathrow,1085,1084.59,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,W,NOA,Hartsfield-Jackson Int,GBP,90.0,0.17
-N,435,2,N,Austin,RT,London (Heathrow),Heathrow,870,869.59,London,AUS,Austin,AUS,LHR,W,NOA,Austin-Bergstrom Intl,GBP,90.0,0.21
-N,1579,2,N,Bahrain,RT,London (Heathrow),Heathrow,3157,3156.99,London,BAH,Bahrain,BAH,LHR,W,MDE,Bahrain,GBP,90.0,0.06
-N,517,2,N,Beijing,RT,London (Heathrow),Heathrow,1034,1033.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,W,FEA,Beijing Daxing Intl,GBP,90.0,0.17
-N,460,2,N,Boston,RT,London (Heathrow),Heathrow,919,918.59,London,BOS,Boston,BOS,LHR,W,NOA,Logan International,GBP,90.0,0.2
-N,672,2,N,Buenos Aires,RT,London (Heathrow),Heathrow,1343,1342.19,London,EZE,Buenos Aires,BUE,LHR,W,SOA,Buenos Aires,GBP,100.0,0.15
-N,465,2,N,Cancun,RT,London (Gatwick),Gatwick,929,928.58,London,CUN,Cancun,CUN,LGW,W,SOA,Cancun International,GBP,90.0,0.19
-N,827,2,N,Cape Town,RT,London (Heathrow),Heathrow,1653,1652.69,London,CPT,Cape Town,CPT,LHR,W,AFR,Cape Town,GBP,100.0,0.12
-N,511,2,N,Chennai,RT,London (Heathrow),Heathrow,1022,1021.19,London,MAA,Chennai,MAA,LHR,W,SAS,Chennai,GBP,90.0,0.18
-N,470,2,N,Chicago,RT,London (Heathrow),Heathrow,940,939.59,London,ORD,Chicago (O'Hare International),CHI,LHR,W,NOA,O'Hare International,GBP,90.0,0.19
-N,514,2,N,Cincinnati,RT,London (Heathrow),Heathrow,1027,1026.59,London,CVG,Cincinnati (Cincinnati/N Kentucky International),CVG,LHR,W,NOA,Cincinnati/N Kentucky International,GBP,90.0,0.18
-N,635,2,N,Dallas,RT,London (Heathrow),Heathrow,1269,1268.09,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,W,NOA,Dallas Ft Worth,GBP,90.0,0.14
-N,448,2,N,Denver,RT,London (Heathrow),Heathrow,895,894.59,London,DEN,Denver (Denver International),DEN,LHR,W,NOA,Denver International,GBP,90.0,0.2
-N,546,2,N,Doha,RT,London (Heathrow),Heathrow,1092,1091.99,London,DOH,Doha,DOH,LHR,W,MDE,Doha,GBP,90.0,0.16
-N,1552,2,N,Dubai,RT,London (Heathrow),Heathrow,3103,3102.99,London,DXB,Dubai,DXB,LHR,W,MDE,Dubai,GBP,90.0,0.06
-N,667,2,N,Grand Cayman,RT,London (Heathrow),Heathrow,1334,1333.59,London,GCM,Grand Cayman,GCM,LHR,W,SOA,Grand Cayman,GBP,90.0,0.13
-Y,484,2,N,Grenada,RT,London (Gatwick),Gatwick,968,967.28,London,GND,Grenada,GND,LGW,W,SOA,Grenada,GBP,90.0,0.19
-N,598,2,N,Hong Kong,RT,London (Heathrow),Heathrow,1195,1194.79,London,HKG,Hong Kong,HKG,LHR,W,FEA,Hong Kong,GBP,100.0,0.17
-N,566,2,N,Houston,RT,London (Heathrow),Heathrow,1132,1131.59,London,IAH,Houston (George Bush Intercont),HOU,LHR,W,NOA,George Bush Intercont,GBP,90.0,0.16
-N,475,2,N,Hyderabad,RT,London (Heathrow),Heathrow,950,949.59,London,HYD,Hyderabad,HYD,LHR,W,SAS,Rajiv Gandhi Intl,GBP,90.0,0.19
-Y,533,2,N,Islamabad,RT,London (Gatwick),Gatwick,1066,1065.68,London,ISB,Islamabad,ISB,LGW,W,SAS,Islamabad,GBP,90.0,0.17
-N,713,2,N,Johannesburg,RT,London (Heathrow),Heathrow,1426,1425.69,London,JNB,Johannesburg,JNB,LHR,W,AFR,Johannesburg,GBP,90.0,0.13
-N,528,2,N,Kingston,RT,London (Gatwick),Gatwick,1055,1054.18,London,KIN,Kingston,KIN,LGW,W,SOA,Kingston,GBP,90.0,0.17
-N,1542,2,N,Kuwait,RT,London (Heathrow),Heathrow,3084,3083.39,London,KWI,Kuwait,KWI,LHR,W,MDE,Kuwait,GBP,90.0,0.06
-N,1226,2,N,Lagos,RT,London (Heathrow),Heathrow,2451,2450.69,London,LOS,Lagos,LOS,LHR,W,AFR,Lagos,GBP,90.0,0.07
-N,619,2,N,Las Vegas,RT,London (Gatwick),Gatwick,1237,1236.38,London,LAS,Las Vegas (Harry Reid Intl),LAS,LGW,W,NOA,Harry Reid Intl,GBP,90.0,0.15
-N,435,2,N,Los Angeles,RT,London (Heathrow),Heathrow,869,868.59,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,W,NOA,Los Angeles International,GBP,90.0,0.21
-N,672,2,N,Male,RT,London (Heathrow),Heathrow,1343,1342.29,London,MLE,Male (Male International),MLE,LHR,W,SAS,Male International,GBP,90.0,0.13
-N,534,2,N,Mexico City,RT,London (Heathrow),Heathrow,1067,1066.89,London,MEX,Mexico City (Mexico),MEX,LHR,W,SOA,Mexico,GBP,90.0,0.17
-N,485,2,N,Miami,RT,London (Heathrow),Heathrow,969,968.59,London,MIA,Miami (Miami International),MIA,LHR,W,NOA,Miami International,GBP,90.0,0.19
-N,465,2,N,Montreal,RT,London (Heathrow),Heathrow,929,928.89,London,YUL,Montreal,YMQ,LHR,W,NOA,Montreal,GBP,90.0,0.19
-N,425,2,N,Mumbai,RT,London (Heathrow),Heathrow,850,849.39,London,BOM,Mumbai,BOM,LHR,W,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,90.0,0.21
-N,611,2,N,Nairobi,RT,London (Heathrow),Heathrow,1221,1220.69,London,NBO,Nairobi,NBO,LHR,W,AFR,Nairobi,GBP,90.0,0.15
-N,507,2,N,Nashville,RT,London (Heathrow),Heathrow,1014,1013.09,London,BNA,Nashville,BNA,LHR,W,NOA,Nashville International,GBP,90.0,0.18
-N,573,2,N,Nassau,RT,London (Heathrow),Heathrow,1146,1145.39,London,NAS,Nassau,NAS,LHR,W,SOA,Nassau,GBP,90.0,0.16
-N,590,2,N,New Orleans,RT,London (Heathrow),Heathrow,1179,1178.09,London,MSY,New Orleans,MSY,LHR,W,NOA,Louis Armstrong International,GBP,90.0,0.15
-N,408,2,N,New York,RT,London (Heathrow),Heathrow,816,815.59,London,JFK,New York (John F Kennedy),NYC,LHR,W,NOA,John F Kennedy,GBP,90.0,0.22
-N,496,2,N,Orlando,RT,London (Gatwick),Gatwick,991,990.38,London,MCO,Orlando,ORL,LGW,W,NOA,Orlando International,GBP,90.0,0.18
-N,465,2,N,Philadelphia,RT,London (Heathrow),Heathrow,929,928.59,London,PHL,Philadelphia,PHL,LHR,W,NOA,Philadelphia International,GBP,90.0,0.19
-N,564,2,N,Phoenix,RT,London (Heathrow),Heathrow,1128,1127.59,London,PHX,Phoenix (Sky Harbor International),PHX,LHR,W,NOA,Sky Harbor International,GBP,90.0,0.16
-N,673,2,N,Port of Spain,RT,London (Gatwick),Gatwick,1346,1345.08,London,POS,Port of Spain,POS,LGW,W,SOA,Port of Spain,GBP,90.0,0.13
-N,526,2,N,Punta Cana,RT,London (Gatwick),Gatwick,1052,1051.48,London,PUJ,Punta Cana,PUJ,LGW,W,SOA,Punta Cana,GBP,90.0,0.17
-N,1584,2,N,Riyadh,RT,London (Heathrow),Heathrow,3167,3166.29,London,RUH,Riyadh,RUH,LHR,W,MDE,King Khalid International,GBP,90.0,0.06
-N,513,2,N,San Diego,RT,London (Heathrow),Heathrow,1026,1025.59,London,SAN,San Diego,SAN,LHR,W,NOA,San Diego International,GBP,90.0,0.18
-N,396,2,N,San Francisco,RT,London (Heathrow),Heathrow,791,790.09,London,SFO,San Francisco,SFO,LHR,W,NOA,San Francisco International,GBP,90.0,0.23
-Y,755,2,N,Santiago,RT,London (Heathrow),Heathrow,1510,1509.99,London,SCL,Santiago,SCL,LHR,W,SOA,Santiago,GBP,100.0,0.13
-N,591,2,N,Sao Paulo,RT,London (Heathrow),Heathrow,1182,1181.49,London,GRU,Sao Paulo (Guarulhos Intl),SAO,LHR,W,SOA,Guarulhos Intl,GBP,90.0,0.15
-N,475,2,N,Seattle,RT,London (Heathrow),Heathrow,949,948.59,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,W,NOA,Seattle-Tacoma International,GBP,90.0,0.19
-N,523,2,N,Shanghai,RT,London (Heathrow),Heathrow,1045,1044.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,W,FEA,Shanghai Pudong,GBP,90.0,0.17
-N,833,2,N,Singapore,RT,London (Heathrow),Heathrow,1666,1665.99,London,SIN,Singapore (Changi),SIN,LHR,W,FEA,Changi,GBP,100.0,0.12
-Y,479,2,N,St Kitts,RT,London (Gatwick),Gatwick,957,956.78,London,SKB,St Kitts,SKB,LGW,W,SOA,Robert L Bradshaw International,GBP,90.0,0.19
-N,503,2,N,St Lucia,RT,London (Gatwick),Gatwick,1006,1005.48,London,UVF,St Lucia,SLU,LGW,W,SOA,St Lucia,GBP,90.0,0.18
-N,1405,2,N,Sydney,RT,London (Heathrow),Heathrow,2809,2808.49,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,W,FEA,Sydney Kingsford Smith,GBP,150.0,0.11
-N,480,2,N,Tampa,RT,London (Gatwick),Gatwick,960,959.88,London,TPA,Tampa (Tampa International),TPA,LGW,W,NOA,Tampa International,GBP,90.0,0.19
-Y,479,2,N,Tobago,RT,London (Gatwick),Gatwick,958,957.08,London,TAB,Tobago,TAB,LGW,W,SOA,Tobago,GBP,90.0,0.19
-N,757,2,N,Tokyo,RT,London (Heathrow),Heathrow,1513,1512.59,London,HND,Tokyo (Haneda),TYO,LHR,W,FEA,Haneda,GBP,100.0,0.13
-N,418,2,N,Toronto,RT,London (Heathrow),Heathrow,835,834.29,London,YYZ,Toronto,YTO,LHR,W,NOA,Toronto,GBP,90.0,0.22
-N,523,2,N,Vancouver,RT,London (Heathrow),Heathrow,1045,1044.89,London,YVR,Vancouver,YVR,LHR,W,NOA,Vancouver,GBP,90.0,0.17
-N,1226,2,N,Abuja,RT,London (Heathrow),Heathrow,2451,2450.69,London,ABV,Abuja,ABV,LHR,C,AFR,Abuja,GBP,140.0,0.11
-N,1049,2,N,Accra,RT,London (Heathrow),Heathrow,2097,2096.69,London,ACC,Accra,ACC,LHR,C,AFR,Accra,GBP,140.0,0.13
-N,267,2,N,Algiers,RT,London (Gatwick),Gatwick,533,532.58,London,ALG,Algiers,ALG,LGW,C,AFR,Algiers,GBP,80.0,0.3
-N,145,2,N,Alicante,RT,London (Gatwick),Gatwick,289,288.18,London,ALC,Alicante,ALC,LGW,C,EUK,Alicante,GBP,40.0,0.28
-N,474,2,N,Amman,RT,London (Heathrow),Heathrow,948,947.99,London,AMM,Amman,AMM,LHR,C,MDE,Amman,GBP,80.0,0.17
-N,136,2,N,Amsterdam,RT,London (Heathrow),Heathrow,271,270.59,London,AMS,Amsterdam,AMS,LHR,C,EUK,Amsterdam,GBP,40.0,0.29
-N,284,2,N,Antalya,RT,London (Gatwick),Gatwick,567,566.38,London,AYT,Antalya,AYT,LGW,C,EUK,Antalya,GBP,80.0,0.28
-N,1059,2,N,Antigua,RT,London (Gatwick),Gatwick,2117,2116.78,London,ANU,Antigua,ANU,LGW,C,SOA,Antigua,GBP,140.0,0.13
-N,221,2,N,Athens,RT,London (Heathrow),Heathrow,442,441.89,London,ATH,Athens,ATH,LHR,C,EUK,Athens,GBP,80.0,0.36
-N,1089,2,N,Atlanta,RT,London (Heathrow),Heathrow,2177,2176.59,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,C,NOA,Hartsfield-Jackson Int,GBP,140.0,0.13
-N,1350,2,N,Austin,RT,London (Heathrow),Heathrow,2699,2698.09,London,AUS,Austin,AUS,LHR,C,NOA,Austin-Bergstrom Intl,GBP,140.0,0.1
-N,1917,2,N,Bahrain,RT,London (Heathrow),Heathrow,3833,3832.99,London,BAH,Bahrain,BAH,LHR,C,MDE,Bahrain,GBP,140.0,0.07
-N,180,2,N,Barcelona,RT,London (Heathrow),Heathrow,359,358.09,London,BCN,Barcelona,BCN,LHR,C,EUK,Barcelona,GBP,40.0,0.22
-N,234,2,N,Bari,RT,London (Gatwick),Gatwick,467,466.98,London,BRI,Bari,BRI,LGW,C,EUK,Bari,GBP,40.0,0.17
-N,102,2,N,Basel,RT,London (Heathrow),Heathrow,204,203.49,London,BSL,Basel,BSL,LHR,C,EUK,Basel,GBP,40.0,0.39
-N,986,2,N,Beijing,RT,London (Heathrow),Heathrow,1972,1971.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,C,FEA,Beijing Daxing Intl,GBP,140.0,0.14
-N,102,2,N,Billund,RT,London (Heathrow),Heathrow,203,202.69,London,BLL,Billund,BLL,LHR,C,EUK,Billund,GBP,40.0,0.39
-N,117,2,N,Bologna,RT,London (Heathrow),Heathrow,233,232.29,London,BLQ,Bologna,BLQ,LHR,C,EUK,Bologna,GBP,40.0,0.34
-N,139,2,N,Bordeaux,RT,London (Gatwick),Gatwick,278,277.08,London,BOD,Bordeaux,BOD,LGW,C,EUK,Bordeaux,GBP,40.0,0.29
-N,1439,2,N,Boston,RT,London (Heathrow),Heathrow,2877,2876.59,London,BOS,Boston,BOS,LHR,C,NOA,Logan International,GBP,140.0,0.1
-N,109,2,N,Brussels,RT,London (Heathrow),Heathrow,217,216.69,London,BRU,Brussels,BRU,LHR,C,EUK,Brussels,GBP,40.0,0.37
-N,151,2,N,Bucharest,RT,London (Heathrow),Heathrow,302,301.89,London,OTP,Bucharest,BUH,LHR,C,EUK,Bucharest,GBP,80.0,0.53
-N,157,2,N,Budapest,RT,London (Heathrow),Heathrow,314,313.69,London,BUD,Budapest,BUD,LHR,C,EUK,Budapest,GBP,40.0,0.25
-N,1635,2,N,Buenos Aires,RT,London (Heathrow),Heathrow,3269,3268.79,London,EZE,Buenos Aires,BUE,LHR,C,SOA,Buenos Aires,GBP,160.0,0.1
-N,424,2,N,Cairo,RT,London (Heathrow),Heathrow,847,846.09,London,CAI,Cairo,CAI,LHR,C,AFR,Cairo,GBP,80.0,0.19
-N,1110,2,N,Cancun,RT,London (Gatwick),Gatwick,2220,2219.58,London,CUN,Cancun,CUN,LGW,C,SOA,Cancun International,GBP,140.0,0.13
-N,1993,2,N,Cape Town,RT,London (Heathrow),Heathrow,3986,3985.69,London,CPT,Cape Town,CPT,LHR,C,AFR,Cape Town,GBP,160.0,0.08
-N,256,2,N,Catania,RT,London (Gatwick),Gatwick,512,511.98,London,CTA,Catania,CTA,LGW,C,EUK,Catania,GBP,80.0,0.31
-Y,164,2,N,Chambery,RT,London (City Airport),City Airport,327,326.69,London,CMF,Chambery,CMF,LCY,C,EUK,Chambery,GBP,40.0,0.24
-N,1273,2,N,Chennai,RT,London (Heathrow),Heathrow,2545,2544.19,London,MAA,Chennai,MAA,LHR,C,SAS,Chennai,GBP,140.0,0.11
-N,1242,2,N,Chicago,RT,London (Heathrow),Heathrow,2483,2482.59,London,ORD,Chicago (O'Hare International),CHI,LHR,C,NOA,O'Hare International,GBP,140.0,0.11
-N,1189,2,N,Cincinnati,RT,London (Heathrow),Heathrow,2377,2376.59,London,CVG,Cincinnati (Cincinnati/N Kentucky International),CVG,LHR,C,NOA,Cincinnati/N Kentucky International,GBP,140.0,0.12
-N,111,2,N,Cologne,RT,London (Heathrow),Heathrow,222,221.69,London,CGN,Cologne (Cologne/Bonn),CGN,LHR,C,EUK,Cologne/Bonn,GBP,40.0,0.36
-N,119,2,N,Copenhagen,RT,London (Heathrow),Heathrow,238,237.19,London,CPH,Copenhagen,CPH,LHR,C,EUK,Copenhagen,GBP,40.0,0.34
-Y,243,2,N,Corfu,RT,London (Heathrow),Heathrow,486,485.79,London,CFU,Corfu,CFU,LHR,C,EUK,Ioannis Kapodistrias,GBP,80.0,0.33
-N,241,2,N,Dalaman,RT,London (Gatwick),Gatwick,482,481.38,London,DLM,Dalaman,DLM,LGW,C,EUK,Dalaman,GBP,80.0,0.33
-N,1460,2,N,Dallas,RT,London (Heathrow),Heathrow,2920,2919.09,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,C,NOA,Dallas Ft Worth,GBP,140.0,0.1
-N,1556,2,N,Denver,RT,London (Heathrow),Heathrow,3112,3111.59,London,DEN,Denver (Denver International),DEN,LHR,C,NOA,Denver International,GBP,140.0,0.09
-N,1985,2,N,Doha,RT,London (Heathrow),Heathrow,3970,3969.59,London,DOH,Doha,DOH,LHR,C,MDE,Doha,GBP,140.0,0.07
-N,1695,2,N,Dubai,RT,London (Heathrow),Heathrow,3389,3388.99,London,DXB,Dubai,DXB,LHR,C,MDE,Dubai,GBP,140.0,0.08
-N,103,2,N,Dublin,RT,London (Heathrow),Heathrow,206,205.14,London,DUB,Dublin,DUB,LHR,C,EUK,Dublin,GBP,40.0,0.39
-N,196,2,N,Dubrovnik,RT,London (Gatwick),Gatwick,392,391.28,London,DBV,Dubrovnik,DBV,LGW,C,EUK,Dubrovnik,GBP,40.0,0.2
-N,114,2,N,Dusseldorf,RT,London (Heathrow),Heathrow,228,227.59,London,DUS,Dusseldorf,DUS,LHR,C,EUK,Dusseldorf,GBP,40.0,0.35
-N,183,2,N,Faro,RT,London (Heathrow),Heathrow,365,364.09,London,FAO,Faro,FAO,LHR,C,EUK,Faro,GBP,40.0,0.22
-N,161,2,N,Florence,RT,London (City Airport),City Airport,322,321.99,London,FLR,Florence,FLR,LCY,C,EUK,Peretola,GBP,40.0,0.25
-N,117,2,N,Frankfurt,RT,London (Heathrow),Heathrow,233,232.99,London,FRA,Frankfurt,FRA,LHR,C,EUK,Frankfurt,GBP,40.0,0.34
-N,282,2,N,Funchal,RT,London (Gatwick),Gatwick,564,563.48,London,FNC,Funchal,FNC,LGW,C,EUK,Madeira,GBP,80.0,0.28
-N,153,2,N,Geneva,RT,London (Heathrow),Heathrow,306,305.59,London,GVA,Geneva,GVA,LHR,C,EUK,Geneva,GBP,40.0,0.26
-N,200,2,N,Gibraltar,RT,London (Heathrow),Heathrow,400,399.99,London,GIB,Gibraltar,GIB,LHR,C,EUK,Gibraltar,GBP,40.0,0.2
-N,113,2,N,Gothenburg,RT,London (Heathrow),Heathrow,226,225.19,London,GOT,Gothenburg,GOT,LHR,C,EUK,Gothenburg,GBP,40.0,0.35
-N,260,2,N,Gran Canaria,RT,London (Gatwick),Gatwick,520,519.18,London,LPA,Gran Canaria,LPA,LGW,C,EUK,Gran Canaria,GBP,80.0,0.31
-N,1260,2,N,Grand Cayman,RT,London (Heathrow),Heathrow,2519,2518.59,London,GCM,Grand Cayman,GCM,LHR,C,SOA,Grand Cayman,GBP,140.0,0.11
-Y,1135,2,N,Grenada,RT,London (Gatwick),Gatwick,2269,2268.28,London,GND,Grenada,GND,LGW,C,SOA,Grenada,GBP,140.0,0.12
-N,107,2,N,Hamburg,RT,London (Heathrow),Heathrow,214,213.99,London,HAM,Hamburg,HAM,LHR,C,EUK,Hamburg,GBP,40.0,0.37
-N,114,2,N,Hannover,RT,London (Heathrow),Heathrow,228,227.89,London,HAJ,Hannover (Hannover),HAJ,LHR,C,EUK,Hannover,GBP,40.0,0.35
-N,1627,2,N,Hong Kong,RT,London (Heathrow),Heathrow,3253,3252.29,London,HKG,Hong Kong,HKG,LHR,C,FEA,Hong Kong,GBP,160.0,0.1
-N,1514,2,N,Houston,RT,London (Heathrow),Heathrow,3027,3026.59,London,IAH,Houston (George Bush Intercont),HOU,LHR,C,NOA,George Bush Intercont,GBP,140.0,0.09
-N,1150,2,N,Hyderabad,RT,London (Heathrow),Heathrow,2299,2298.79,London,HYD,Hyderabad,HYD,LHR,C,SAS,Rajiv Gandhi Intl,GBP,140.0,0.12
-N,145,2,N,Ibiza,RT,London (City Airport),City Airport,290,289.69,London,IBZ,Ibiza,IBZ,LCY,C,EUK,Ibiza,GBP,40.0,0.28
-N,166,2,N,Innsbruck,RT,London (Gatwick),Gatwick,332,331.88,London,INN,Innsbruck (Kranebitten),INN,LGW,C,EUK,Kranebitten,GBP,40.0,0.24
-Y,1069,2,N,Islamabad,RT,London (Heathrow),Heathrow,2138,2137.59,London,ISB,Islamabad,ISB,LHR,C,SAS,Islamabad,GBP,140.0,0.13
-N,214,2,N,Istanbul,RT,London (Heathrow),Heathrow,428,427.29,London,IST,Istanbul (Istanbul Airport),IST,LHR,C,EUK,Istanbul Airport,GBP,80.0,0.37
-N,128,2,N,Jersey,RT,London (Gatwick),Gatwick,256,255.82,London,JER,Jersey,JER,LGW,C,EUK,Jersey,GBP,40.0,0.31
-N,1824,2,N,Johannesburg,RT,London (Heathrow),Heathrow,3648,3647.69,London,JNB,Johannesburg,JNB,LHR,C,AFR,Johannesburg,GBP,140.0,0.08
-N,994,2,N,Kingston,RT,London (Gatwick),Gatwick,1987,1986.18,London,KIN,Kingston,KIN,LGW,C,SOA,Kingston,GBP,140.0,0.14
-Y,329,2,N,Kos,RT,London (Heathrow),Heathrow,658,657.69,London,KGS,Kos,KGS,LHR,C,EUK,Kos,GBP,80.0,0.24
-N,127,2,N,Krakow,RT,London (Heathrow),Heathrow,253,252.09,London,KRK,Krakow,KRK,LHR,C,EUK,Krakow,GBP,40.0,0.31
-N,2109,2,N,Kuwait,RT,London (Heathrow),Heathrow,4218,4217.39,London,KWI,Kuwait,KWI,LHR,C,MDE,Kuwait,GBP,140.0,0.07
-N,1226,2,N,Lagos,RT,London (Heathrow),Heathrow,2451,2450.69,London,LOS,Lagos,LOS,LHR,C,AFR,Lagos,GBP,140.0,0.11
-N,225,2,N,Lanzarote,RT,London (Gatwick),Gatwick,449,448.48,London,ACE,Lanzarote,ACE,LGW,C,EUK,Arrecife,GBP,80.0,0.36
-N,246,2,N,Larnaca,RT,London (Gatwick),Gatwick,492,491.68,London,LCA,Larnaca,LCA,LGW,C,EUK,Larnaca,GBP,80.0,0.33
-N,1362,2,N,Las Vegas,RT,London (Heathrow),Heathrow,2724,2723.59,London,LAS,Las Vegas (Harry Reid Intl),LAS,LHR,C,NOA,Harry Reid Intl,GBP,140.0,0.1
-N,157,2,N,Lisbon,RT,London (Heathrow),Heathrow,313,312.09,London,LIS,Lisbon,LIS,LHR,C,EUK,Lisbon,GBP,40.0,0.25
-N,160,2,N,Ljubljana,RT,London (Heathrow),Heathrow,319,318.39,London,LJU,Ljubljana,LJU,LHR,C,EUK,Joze Pucnik,GBP,40.0,0.25
-N,1250,2,N,Los Angeles,RT,London (Heathrow),Heathrow,2499,2498.09,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,C,NOA,Los Angeles International,GBP,140.0,0.11
-N,96,2,N,Luxembourg,RT,London (Heathrow),Heathrow,191,190.89,London,LUX,Luxembourg,LUX,LHR,C,EUK,Luxembourg,GBP,40.0,0.42
-N,123,2,N,Lyon,RT,London (Heathrow),Heathrow,245,244.49,London,LYS,Lyon (Saint Exupery),LYS,LHR,C,EUK,Saint Exupery,GBP,40.0,0.33
-N,168,2,N,Madrid,RT,London (Heathrow),Heathrow,336,335.89,London,MAD,Madrid,MAD,LHR,C,EUK,Madrid,GBP,40.0,0.24
-N,161,2,N,Malaga,RT,London (Gatwick),Gatwick,322,321.18,London,AGP,Malaga,AGP,LGW,C,EUK,Malaga,GBP,40.0,0.25
-Y,1507,2,N,Male,RT,London (Heathrow),Heathrow,3014,3013.49,London,MLE,Male (Male International),MLE,LHR,C,SAS,Male International,GBP,140.0,0.09
-N,244,2,N,Malta,RT,London (Gatwick),Gatwick,488,487.18,London,MLA,Malta,MLA,LGW,C,EUK,Luqa International,GBP,80.0,0.33
-N,217,2,N,Marrakech,RT,London (Gatwick),Gatwick,433,432.08,London,RAK,Marrakech,RAK,LGW,C,AFR,Marrakech,GBP,80.0,0.37
-N,132,2,N,Marseille,RT,London (Heathrow),Heathrow,263,262.99,London,MRS,Marseille,MRS,LHR,C,EUK,Marseille,GBP,40.0,0.3
-N,1230,2,N,Mexico City,RT,London (Heathrow),Heathrow,2460,2459.79,London,MEX,Mexico City (Mexico),MEX,LHR,C,SOA,Mexico,GBP,140.0,0.11
-N,1141,2,N,Miami,RT,London (Heathrow),Heathrow,2281,2280.09,London,MIA,Miami (Miami International),MIA,LHR,C,NOA,Miami International,GBP,140.0,0.12
-N,148,2,N,Milan,RT,London (Heathrow),Heathrow,296,295.89,London,MXP,Milan (Malpensa),MIL,LHR,C,EUK,Malpensa,GBP,40.0,0.27
-N,1074,2,N,Montreal,RT,London (Heathrow),Heathrow,2148,2147.89,London,YUL,Montreal,YMQ,LHR,C,NOA,Montreal,GBP,140.0,0.13
-N,1228,2,N,Mumbai,RT,London (Heathrow),Heathrow,2456,2455.49,London,BOM,Mumbai,BOM,LHR,C,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,140.0,0.11
-N,128,2,N,Munich,RT,London (Heathrow),Heathrow,255,254.89,London,MUC,Munich,MUC,LHR,C,EUK,Munich,GBP,40.0,0.31
-N,204,2,N,Mykonos,RT,London (City Airport),City Airport,407,406.49,London,JMK,Mykonos,JMK,LCY,C,EUK,Mykonos,GBP,80.0,0.39
-N,1259,2,N,Nairobi,RT,London (Heathrow),Heathrow,2517,2516.69,London,NBO,Nairobi,NBO,LHR,C,AFR,Nairobi,GBP,140.0,0.11
-N,1476,2,N,Nashville,RT,London (Heathrow),Heathrow,2951,2950.09,London,BNA,Nashville,BNA,LHR,C,NOA,Nashville International,GBP,140.0,0.09
-N,1144,2,N,Nassau,RT,London (Heathrow),Heathrow,2288,2287.39,London,NAS,Nassau,NAS,LHR,C,SOA,Nassau,GBP,140.0,0.12
-N,1775,2,N,New Orleans,RT,London (Heathrow),Heathrow,3550,3549.09,London,MSY,New Orleans,MSY,LHR,C,NOA,Louis Armstrong International,GBP,140.0,0.08
-N,858,2,N,New York,RT,London (Heathrow),Heathrow,1716,1715.09,London,JFK,New York (John F Kennedy),NYC,LHR,C,NOA,John F Kennedy,GBP,140.0,0.16
-N,170,2,N,Nice,RT,London (City Airport),City Airport,340,339.29,London,NCE,Nice,NCE,LCY,C,EUK,Nice,GBP,40.0,0.24
-Y,187,2,N,Olbia,RT,London (Heathrow),Heathrow,373,372.89,London,OLB,Olbia,OLB,LHR,C,EUK,Olbia,GBP,40.0,0.21
-N,1133,2,N,Orlando,RT,London (Gatwick),Gatwick,2265,2264.38,London,MCO,Orlando,ORL,LGW,C,NOA,Orlando International,GBP,140.0,0.12
-N,145,2,N,Oslo,RT,London (Heathrow),Heathrow,289,288.59,London,OSL,Oslo,OSL,LHR,C,EUK,Oslo,GBP,40.0,0.28
-Y,150,2,N,Palma,RT,London (City Airport),City Airport,300,299.19,London,PMI,Palma,PMI,LCY,C,EUK,Palma,GBP,40.0,0.27
-N,264,2,N,Paphos,RT,London (Gatwick),Gatwick,527,526.98,London,PFO,Paphos,PFO,LGW,C,EUK,Paphos,GBP,80.0,0.3
-N,127,2,N,Paris,RT,London (Heathrow),Heathrow,254,253.19,London,CDG,Paris (Charles de Gaulle),PAR,LHR,C,EUK,Charles de Gaulle,GBP,40.0,0.31
-N,1150,2,N,Philadelphia,RT,London (Heathrow),Heathrow,2300,2299.09,London,PHL,Philadelphia,PHL,LHR,C,NOA,Philadelphia International,GBP,140.0,0.12
-N,1275,2,N,Phoenix,RT,London (Heathrow),Heathrow,2549,2548.59,London,PHX,Phoenix (Sky Harbor International),PHX,LHR,C,NOA,Sky Harbor International,GBP,140.0,0.11
-N,110,2,N,Pisa,RT,London (Heathrow),Heathrow,219,218.69,London,PSA,Pisa,PSA,LHR,C,EUK,Pisa,GBP,40.0,0.36
-Y,346,2,N,Ponta Delgada,RT,London (Heathrow),Heathrow,691,690.29,London,PDL,Ponta Delgada,PDL,LHR,C,EUK,Ponta Delgada,GBP,80.0,0.23
-N,1020,2,N,Port of Spain,RT,London (Gatwick),Gatwick,2039,2038.38,London,POS,Port of Spain,POS,LGW,C,SOA,Port of Spain,GBP,140.0,0.14
-N,119,2,N,Prague,RT,London (Heathrow),Heathrow,237,236.59,London,PRG,Prague,PRG,LHR,C,EUK,Prague,GBP,40.0,0.34
-N,1025,2,N,Punta Cana,RT,London (Gatwick),Gatwick,2049,2048.48,London,PUJ,Punta Cana,PUJ,LGW,C,SOA,Punta Cana,GBP,140.0,0.14
-N,201,2,N,Reykjavik,RT,London (Heathrow),Heathrow,401,400.79,London,KEF,Reykjavik (Keflavik),REK,LHR,C,EUK,Keflavik,GBP,80.0,0.4
-N,306,2,N,Rhodes,RT,London (Gatwick),Gatwick,612,611.88,London,RHO,Rhodes,RHO,LGW,C,EUK,Rhodes,GBP,80.0,0.26
-N,150,2,N,Riga,RT,London (Heathrow),Heathrow,299,298.59,London,RIX,Riga,RIX,LHR,C,EUK,Riga,GBP,40.0,0.27
-N,3379,2,N,Riyadh,RT,London (Heathrow),Heathrow,6758,6757.29,London,RUH,Riyadh,RUH,LHR,C,MDE,King Khalid International,GBP,140.0,0.04
-N,197,2,N,Rome,RT,London (Heathrow),Heathrow,393,392.79,London,FCO,Rome (Fiumicino),ROM,LHR,C,EUK,Fiumicino,GBP,40.0,0.2
-N,140,2,N,Rotterdam,RT,London (City Airport),City Airport,279,278.19,London,RTM,Rotterdam,RTM,LCY,C,EUK,Rotterdam,GBP,40.0,0.29
-N,156,2,N,Salzburg,RT,London (Gatwick),Gatwick,311,310.18,London,SZG,Salzburg,SZG,LGW,C,EUK,Salzburg,GBP,40.0,0.26
-N,1325,2,N,San Diego,RT,London (Heathrow),Heathrow,2650,2649.09,London,SAN,San Diego,SAN,LHR,C,NOA,San Diego International,GBP,140.0,0.11
-N,1325,2,N,San Francisco,RT,London (Heathrow),Heathrow,2650,2649.09,London,SFO,San Francisco,SFO,LHR,C,NOA,San Francisco International,GBP,140.0,0.11
-Y,190,2,N,San Sebastian,RT,London (City Airport),City Airport,380,379.89,London,EAS,San Sebastian,EAS,LCY,C,EUK,San Sebastian,GBP,40.0,0.21
-Y,1493,2,N,Santiago,RT,London (Heathrow),Heathrow,2986,2985.99,London,SCL,Santiago,SCL,LHR,C,SOA,Santiago,GBP,160.0,0.11
-N,1371,2,N,Sao Paulo,RT,London (Heathrow),Heathrow,2742,2741.49,London,GRU,Sao Paulo (Guarulhos Intl),SAO,LHR,C,SOA,Guarulhos Intl,GBP,140.0,0.1
-N,1274,2,N,Seattle,RT,London (Heathrow),Heathrow,2548,2547.59,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,C,NOA,Seattle-Tacoma International,GBP,140.0,0.11
-N,158,2,N,Seville,RT,London (Gatwick),Gatwick,315,314.48,London,SVQ,Seville,SVQ,LGW,C,EUK,Seville,GBP,40.0,0.25
-N,1314,2,N,Shanghai,RT,London (Heathrow),Heathrow,2628,2627.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,C,FEA,Shanghai Pudong,GBP,140.0,0.11
-N,1479,2,N,Singapore,RT,London (Heathrow),Heathrow,2957,2956.99,London,SIN,Singapore (Changi),SIN,LHR,C,FEA,Changi,GBP,160.0,0.11
-N,197,2,N,Sofia,RT,London (Heathrow),Heathrow,394,393.49,London,SOF,Sofia,SOF,LHR,C,EUK,Sofia,GBP,80.0,0.41
-Y,193,2,N,Split,RT,London (Heathrow),Heathrow,385,384.69,London,SPU,Split,SPU,LHR,C,EUK,Split,GBP,40.0,0.21
-Y,1181,2,N,St Kitts,RT,London (Gatwick),Gatwick,2361,2360.08,London,SKB,St Kitts,SKB,LGW,C,SOA,Robert L Bradshaw International,GBP,140.0,0.12
-N,1077,2,N,St Lucia,RT,London (Gatwick),Gatwick,2153,2152.18,London,UVF,St Lucia,SLU,LGW,C,SOA,St Lucia,GBP,140.0,0.13
-N,118,2,N,Stockholm,RT,London (Heathrow),Heathrow,235,234.39,London,ARN,Stockholm (Arlanda),STO,LHR,C,EUK,Arlanda,GBP,40.0,0.34
-N,125,2,N,Stuttgart,RT,London (Heathrow),Heathrow,249,248.39,London,STR,Stuttgart,STR,LHR,C,EUK,Stuttgart,GBP,40.0,0.32
-N,2801,2,N,Sydney,RT,London (Heathrow),Heathrow,5601,5600.69,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,C,FEA,Sydney Kingsford Smith,GBP,240.0,0.09
-N,1156,2,N,Tampa,RT,London (Gatwick),Gatwick,2312,2311.38,London,TPA,Tampa (Tampa International),TPA,LGW,C,NOA,Tampa International,GBP,140.0,0.12
-N,259,2,N,Thessaloniki,RT,London (Gatwick),Gatwick,517,516.98,London,SKG,Thessaloniki,SKG,LGW,C,EUK,Thessaloniki,GBP,80.0,0.31
-Y,1104,2,N,Tobago,RT,London (Gatwick),Gatwick,2208,2207.38,London,TAB,Tobago,TAB,LGW,C,SOA,Tobago,GBP,140.0,0.13
-N,1625,2,N,Tokyo,RT,London (Heathrow),Heathrow,3250,3249.59,London,HND,Tokyo (Haneda),TYO,LHR,C,FEA,Haneda,GBP,160.0,0.1
-N,417,2,N,Toronto,RT,London (Heathrow),Heathrow,833,832.69,London,YYZ,Toronto,YTO,LHR,C,NOA,Toronto,GBP,140.0,0.34
-N,121,2,N,Toulouse,RT,London (Heathrow),Heathrow,241,240.69,London,TLS,Toulouse,TLS,LHR,C,EUK,Toulouse,GBP,40.0,0.33
-N,137,2,N,Turin,RT,London (Gatwick),Gatwick,274,273.08,London,TRN,Turin,TRN,LGW,C,EUK,Turin,GBP,40.0,0.29
-N,1352,2,N,Vancouver,RT,London (Heathrow),Heathrow,2703,2702.89,London,YVR,Vancouver,YVR,LHR,C,NOA,Vancouver,GBP,140.0,0.1
-N,154,2,N,Venice,RT,London (Heathrow),Heathrow,307,306.69,London,VCE,Venice (Marco Polo),VCE,LHR,C,EUK,Marco Polo,GBP,40.0,0.26
-N,132,2,N,Verona,RT,London (Gatwick),Gatwick,263,262.98,London,VRN,Verona,VRN,LGW,C,EUK,Valerio Catullo,GBP,40.0,0.3
-N,136,2,N,Vienna,RT,London (Heathrow),Heathrow,271,270.89,London,VIE,Vienna,VIE,LHR,C,EUK,Vienna,GBP,40.0,0.29
-N,124,2,N,Warsaw,RT,London (Heathrow),Heathrow,248,247.49,London,WAW,Warsaw,WAW,LHR,C,EUK,Warsaw,GBP,40.0,0.32
-N,131,2,N,Zagreb,RT,London (Heathrow),Heathrow,261,260.49,London,ZAG,Zagreb,ZAG,LHR,C,EUK,Zagreb,GBP,40.0,0.31
-N,152,2,N,Zurich,RT,London (Heathrow),Heathrow,303,302.19,London,ZRH,Zurich,ZRH,LHR,C,EUK,Zurich,GBP,40.0,0.26
-N,2266,2,N,Abuja,RT,London (Heathrow),Heathrow,4532,4531.69,London,ABV,Abuja,ABV,LHR,F,AFR,Abuja,GBP,210.0,0.09
-N,1313,2,N,Atlanta,RT,London (Heathrow),Heathrow,2625,2624.59,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,F,NOA,Hartsfield-Jackson Int,GBP,210.0,0.16
-N,2267,2,N,Bahrain,RT,London (Heathrow),Heathrow,4533,4532.99,London,BAH,Bahrain,BAH,LHR,F,MDE,Bahrain,GBP,210.0,0.09
-Y,7320,2,N,Beijing,RT,London (Heathrow),Heathrow,14639,14638.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,F,FEA,Beijing Daxing Intl,GBP,210.0,0.03
-N,1538,2,N,Boston,RT,London (Heathrow),Heathrow,3075,3074.59,London,BOS,Boston,BOS,LHR,F,NOA,Logan International,GBP,210.0,0.14
-N,2558,2,N,Cape Town,RT,London (Heathrow),Heathrow,5115,5114.69,London,CPT,Cape Town,CPT,LHR,F,AFR,Cape Town,GBP,240.0,0.09
-N,1466,2,N,Chicago,RT,London (Heathrow),Heathrow,2931,2930.59,London,ORD,Chicago (O'Hare International),CHI,LHR,F,NOA,O'Hare International,GBP,210.0,0.14
-N,1498,2,N,Dallas,RT,London (Heathrow),Heathrow,2996,2995.59,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,F,NOA,Dallas Ft Worth,GBP,210.0,0.14
-N,1985,2,N,Doha,RT,London (Heathrow),Heathrow,3970,3969.59,London,DOH,Doha,DOH,LHR,F,MDE,Doha,GBP,210.0,0.11
-N,2410,2,N,Dubai,RT,London (Heathrow),Heathrow,4820,4819.59,London,DXB,Dubai,DXB,LHR,F,MDE,Dubai,GBP,210.0,0.09
-N,2382,2,N,Hong Kong,RT,London (Heathrow),Heathrow,4764,4763.29,London,HKG,Hong Kong,HKG,LHR,F,FEA,Hong Kong,GBP,240.0,0.1
-N,1638,2,N,Houston,RT,London (Heathrow),Heathrow,3276,3275.09,London,IAH,Houston (George Bush Intercont),HOU,LHR,F,NOA,George Bush Intercont,GBP,210.0,0.13
-N,2500,2,N,Johannesburg,RT,London (Heathrow),Heathrow,5000,4999.69,London,JNB,Johannesburg,JNB,LHR,F,AFR,Johannesburg,GBP,210.0,0.08
-N,2859,2,N,Kuwait,RT,London (Heathrow),Heathrow,5718,5717.39,London,KWI,Kuwait,KWI,LHR,F,MDE,Kuwait,GBP,210.0,0.07
-N,2439,2,N,Lagos,RT,London (Heathrow),Heathrow,4878,4877.69,London,LOS,Lagos,LOS,LHR,F,AFR,Lagos,GBP,210.0,0.09
-N,3049,2,N,Los Angeles,RT,London (Heathrow),Heathrow,6097,6096.09,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,F,NOA,Los Angeles International,GBP,210.0,0.07
-N,1643,2,N,Mexico City,RT,London (Heathrow),Heathrow,3286,3285.79,London,MEX,Mexico City (Mexico),MEX,LHR,F,SOA,Mexico,GBP,210.0,0.13
-N,1690,2,N,Miami,RT,London (Heathrow),Heathrow,3379,3378.09,London,MIA,Miami (Miami International),MIA,LHR,F,NOA,Miami International,GBP,210.0,0.12
-N,2749,2,N,Mumbai,RT,London (Heathrow),Heathrow,5498,5497.49,London,BOM,Mumbai,BOM,LHR,F,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,210.0,0.08
-N,1257,2,N,New York,RT,London (Heathrow),Heathrow,2513,2512.59,London,JFK,New York (John F Kennedy),NYC,LHR,F,NOA,John F Kennedy,GBP,210.0,0.17
-Y,3260,2,N,Riyadh,RT,London (Heathrow),Heathrow,6519,6518.99,London,RUH,Riyadh,RUH,LHR,F,MDE,King Khalid International,GBP,210.0,0.06
-N,2163,2,N,San Francisco,RT,London (Heathrow),Heathrow,4325,4324.59,London,SFO,San Francisco,SFO,LHR,F,NOA,San Francisco International,GBP,210.0,0.1
-Y,2613,2,N,Santiago,RT,London (Heathrow),Heathrow,5226,5225.99,London,SCL,Santiago,SCL,LHR,F,SOA,Santiago,GBP,240.0,0.09
-N,1838,2,N,Seattle,RT,London (Heathrow),Heathrow,3676,3675.09,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,F,NOA,Seattle-Tacoma International,GBP,210.0,0.11
-N,1878,2,N,Shanghai,RT,London (Heathrow),Heathrow,3755,3754.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,F,FEA,Shanghai Pudong,GBP,210.0,0.11
-N,2269,2,N,Singapore,RT,London (Heathrow),Heathrow,4538,4537.89,London,SIN,Singapore (Changi),SIN,LHR,F,FEA,Changi,GBP,240.0,0.11
-N,3262,2,N,Sydney,RT,London (Heathrow),Heathrow,6523,6522.49,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,F,FEA,Sydney Kingsford Smith,GBP,360.0,0.11
-N,2303,2,N,Tokyo,RT,London (Heathrow),Heathrow,4605,4604.59,London,HND,Tokyo (Haneda),TYO,LHR,F,FEA,Haneda,GBP,240.0,0.1
+N,34,1,N,Aberdeen,RT,London (Heathrow),Heathrow,68,67.02,London,ABZ,Aberdeen,ABZ,LHR,M,EUK,Aberdeen,GBP,5.0,0.22
+N,1919,1,N,Abuja,RT,London (Heathrow),Heathrow,3838,3837.69,London,ABV,Abuja,ABV,LHR,M,AFR,Abuja,GBP,20.0,0.02
+N,293,1,N,Accra,RT,London (Heathrow),Heathrow,586,585.89,London,ACC,Accra,ACC,LHR,M,AFR,Accra,GBP,20.0,0.1
+N,103,1,N,Algiers,RT,London (Gatwick),Gatwick,205,204.68,London,ALG,Algiers,ALG,LGW,M,AFR,Algiers,GBP,10.0,0.15
+N,39,1,N,Alicante,RT,London (Gatwick),Gatwick,78,77.18,London,ALC,Alicante,ALC,LGW,M,EUK,Alicante,GBP,5.0,0.19
+N,182,1,N,Amman,RT,London (Heathrow),Heathrow,364,363.99,London,AMM,Amman,AMM,LHR,M,MDE,Amman,GBP,10.0,0.08
+N,57,1,N,Amsterdam,RT,London (Heathrow),Heathrow,113,112.59,London,AMS,Amsterdam,AMS,LHR,M,EUK,Amsterdam,GBP,5.0,0.13
+N,89,1,N,Antalya,RT,London (Gatwick),Gatwick,178,177.38,London,AYT,Antalya,AYT,LGW,M,EUK,Antalya,GBP,10.0,0.17
+N,228,1,N,Antigua,RT,London (Gatwick),Gatwick,456,455.78,London,ANU,Antigua,ANU,LGW,M,SOA,Antigua,GBP,20.0,0.13
+N,53,1,N,Athens,RT,London (Heathrow),Heathrow,106,105.89,London,ATH,Athens,ATH,LHR,M,EUK,Athens,GBP,10.0,0.28
+N,367,1,N,Atlanta,RT,London (Heathrow),Heathrow,733,732.09,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,M,NOA,Hartsfield-Jackson Int,GBP,20.0,0.08
+N,280,1,N,Austin,RT,London (Heathrow),Heathrow,560,559.59,London,AUS,Austin,AUS,LHR,M,NOA,Austin-Bergstrom Intl,GBP,20.0,0.11
+Y,1080,1,N,Bahrain,RT,London (Heathrow),Heathrow,2160,2159.99,London,BAH,Bahrain,BAH,LHR,M,MDE,Bahrain,GBP,20.0,0.03
+N,36,1,N,Barcelona,RT,London (Heathrow),Heathrow,72,71.09,London,BCN,Barcelona,BCN,LHR,M,EUK,Barcelona,GBP,5.0,0.21
+N,81,1,N,Bari,RT,London (Gatwick),Gatwick,162,161.88,London,BRI,Bari,BRI,LGW,M,EUK,Bari,GBP,5.0,0.09
+N,38,1,N,Basel,RT,London (Heathrow),Heathrow,76,75.49,London,BSL,Basel,BSL,LHR,M,EUK,Basel,GBP,5.0,0.2
+Y,284,1,N,Beijing,RT,London (Heathrow),Heathrow,568,567.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,M,FEA,Beijing Daxing Intl,GBP,20.0,0.11
+N,39,1,N,Belfast,RT,London (Heathrow),Heathrow,77,76.16,London,BHD,Belfast (Belfast City Airport),BFS,LHR,M,EUK,Belfast City Airport,GBP,5.0,0.2
+N,37,1,N,Billund,RT,London (Heathrow),Heathrow,73,72.69,London,BLL,Billund,BLL,LHR,M,EUK,Billund,GBP,5.0,0.21
+N,42,1,N,Bologna,RT,London (Heathrow),Heathrow,83,82.29,London,BLQ,Bologna,BLQ,LHR,M,EUK,Bologna,GBP,5.0,0.18
+N,38,1,N,Bordeaux,RT,London (Gatwick),Gatwick,75,74.38,London,BOD,Bordeaux,BOD,LGW,M,EUK,Bordeaux,GBP,5.0,0.2
+N,217,1,N,Boston,RT,London (Heathrow),Heathrow,434,433.09,London,BOS,Boston,BOS,LHR,M,NOA,Logan International,GBP,20.0,0.14
+N,45,1,N,Brussels,RT,London (Heathrow),Heathrow,90,89.69,London,BRU,Brussels,BRU,LHR,M,EUK,Brussels,GBP,5.0,0.17
+N,49,1,N,Bucharest,RT,London (Heathrow),Heathrow,97,96.89,London,OTP,Bucharest,BUH,LHR,M,EUK,Bucharest,GBP,10.0,0.31
+N,50,1,N,Budapest,RT,London (Heathrow),Heathrow,100,99.59,London,BUD,Budapest,BUD,LHR,M,EUK,Budapest,GBP,5.0,0.15
+Y,437,1,N,Buenos Aires,RT,London (Heathrow),Heathrow,874,873.19,London,EZE,Buenos Aires,BUE,LHR,M,SOA,Buenos Aires,GBP,20.0,0.07
+N,159,1,N,Cairo,RT,London (Heathrow),Heathrow,318,317.79,London,CAI,Cairo,CAI,LHR,M,AFR,Cairo,GBP,10.0,0.09
+N,290,1,N,Cancun,RT,London (Gatwick),Gatwick,580,579.88,London,CUN,Cancun,CUN,LGW,M,SOA,Cancun International,GBP,20.0,0.1
+N,456,1,N,Cape Town,RT,London (Heathrow),Heathrow,912,911.69,London,CPT,Cape Town,CPT,LHR,M,AFR,Cape Town,GBP,20.0,0.07
+N,73,1,N,Catania,RT,London (Gatwick),Gatwick,146,145.98,London,CTA,Catania,CTA,LGW,M,EUK,Catania,GBP,10.0,0.21
+N,75,1,N,Chambery,RT,London (City Airport),City Airport,149,148.79,London,CMF,Chambery,CMF,LCY,M,EUK,Chambery,GBP,5.0,0.1
+N,289,1,N,Chennai,RT,London (Heathrow),Heathrow,578,577.19,London,MAA,Chennai,MAA,LHR,M,SAS,Chennai,GBP,20.0,0.1
+N,277,1,N,Chicago,RT,London (Heathrow),Heathrow,554,553.59,London,ORD,Chicago (O'Hare International),CHI,LHR,M,NOA,O'Hare International,GBP,20.0,0.11
+N,301,1,N,Cincinnati,RT,London (Heathrow),Heathrow,601,600.09,London,CVG,Cincinnati (Cincinnati/N Kentucky International),CVG,LHR,M,NOA,Cincinnati/N Kentucky International,GBP,20.0,0.1
+N,47,1,N,Cologne,RT,London (Heathrow),Heathrow,93,92.59,London,CGN,Cologne (Cologne/Bonn),CGN,LHR,M,EUK,Cologne/Bonn,GBP,5.0,0.16
+N,43,1,N,Copenhagen,RT,London (Heathrow),Heathrow,85,84.19,London,CPH,Copenhagen,CPH,LHR,M,EUK,Copenhagen,GBP,5.0,0.18
+N,56,1,N,Corfu,RT,London (Heathrow),Heathrow,111,110.79,London,CFU,Corfu,CFU,LHR,M,EUK,Ioannis Kapodistrias,GBP,10.0,0.27
+Y,91,1,N,Dalaman,RT,London (Gatwick),Gatwick,181,180.38,London,DLM,Dalaman,DLM,LGW,M,EUK,Dalaman,GBP,10.0,0.17
+N,416,1,N,Dallas,RT,London (Heathrow),Heathrow,832,831.59,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,M,NOA,Dallas Ft Worth,GBP,20.0,0.07
+N,310,1,N,Denver,RT,London (Heathrow),Heathrow,619,618.59,London,DEN,Denver (Denver International),DEN,LHR,M,NOA,Denver International,GBP,20.0,0.1
+N,286,1,N,Doha,RT,London (Heathrow),Heathrow,571,570.99,London,DOH,Doha,DOH,LHR,M,MDE,Doha,GBP,20.0,0.11
+N,1306,1,N,Dubai,RT,London (Heathrow),Heathrow,2611,2610.59,London,DXB,Dubai,DXB,LHR,M,MDE,Dubai,GBP,20.0,0.02
+N,26,1,N,Dublin,RT,London (Heathrow),Heathrow,52,51.14,London,DUB,Dublin,DUB,LHR,M,EUK,Dublin,GBP,5.0,0.29
+N,66,1,N,Dubrovnik,RT,London (Gatwick),Gatwick,132,131.28,London,DBV,Dubrovnik,DBV,LGW,M,EUK,Dubrovnik,GBP,5.0,0.11
+N,50,1,N,Dusseldorf,RT,London (Heathrow),Heathrow,99,98.59,London,DUS,Dusseldorf,DUS,LHR,M,EUK,Dusseldorf,GBP,5.0,0.15
+N,36,1,N,Edinburgh,RT,London (Heathrow),Heathrow,71,70.41,London,EDI,Edinburgh,EDI,LHR,M,EUK,Edinburgh,GBP,5.0,0.21
+N,43,1,N,Faro,RT,London (Gatwick),Gatwick,86,85.18,London,FAO,Faro,FAO,LGW,M,EUK,Faro,GBP,5.0,0.18
+N,60,1,N,Florence,RT,London (City Airport),City Airport,119,118.89,London,FLR,Florence,FLR,LCY,M,EUK,Peretola,GBP,5.0,0.13
+N,53,1,N,Frankfurt,RT,London (Heathrow),Heathrow,106,105.99,London,FRA,Frankfurt,FRA,LHR,M,EUK,Frankfurt,GBP,5.0,0.14
+N,81,1,N,Funchal,RT,London (Gatwick),Gatwick,161,160.38,London,FNC,Funchal,FNC,LGW,M,EUK,Madeira,GBP,10.0,0.19
+N,44,1,N,Geneva,RT,London (Gatwick),Gatwick,87,86.78,London,GVA,Geneva,GVA,LGW,M,EUK,Geneva,GBP,5.0,0.17
+N,39,1,N,Gibraltar,RT,London (Heathrow),Heathrow,77,76.99,London,GIB,Gibraltar,GIB,LHR,M,EUK,Gibraltar,GBP,5.0,0.19
+N,34,1,N,Glasgow,RT,London (Heathrow),Heathrow,68,67.42,London,GLA,Glasgow,GLA,LHR,M,EUK,Glasgow,GBP,5.0,0.22
+N,42,1,N,Gothenburg,RT,London (Heathrow),Heathrow,84,83.19,London,GOT,Gothenburg,GOT,LHR,M,EUK,Gothenburg,GBP,5.0,0.18
+N,60,1,N,Gran Canaria,RT,London (Gatwick),Gatwick,119,118.18,London,LPA,Gran Canaria,LPA,LGW,M,EUK,Gran Canaria,GBP,10.0,0.25
+N,1771,1,N,Grand Cayman,RT,London (Heathrow),Heathrow,3542,3541.59,London,GCM,Grand Cayman,GCM,LHR,M,SOA,Grand Cayman,GBP,20.0,0.02
+Y,254,1,N,Grenada,RT,London (Gatwick),Gatwick,508,507.28,London,GND,Grenada,GND,LGW,M,SOA,Grenada,GBP,20.0,0.12
+N,43,1,N,Hamburg,RT,London (Heathrow),Heathrow,86,85.99,London,HAM,Hamburg,HAM,LHR,M,EUK,Hamburg,GBP,5.0,0.17
+N,50,1,N,Hannover,RT,London (Heathrow),Heathrow,100,99.79,London,HAJ,Hannover (Hannover),HAJ,LHR,M,EUK,Hannover,GBP,5.0,0.15
+N,335,1,N,Hong Kong,RT,London (Heathrow),Heathrow,669,668.79,London,HKG,Hong Kong,HKG,LHR,M,FEA,Hong Kong,GBP,20.0,0.09
+N,428,1,N,Houston,RT,London (Heathrow),Heathrow,856,855.59,London,IAH,Houston (George Bush Intercont),HOU,LHR,M,NOA,George Bush Intercont,GBP,20.0,0.07
+N,276,1,N,Hyderabad,RT,London (Heathrow),Heathrow,551,550.79,London,HYD,Hyderabad,HYD,LHR,M,SAS,Rajiv Gandhi Intl,GBP,20.0,0.11
+N,42,1,N,Ibiza,RT,London (Gatwick),Gatwick,84,83.08,London,IBZ,Ibiza,IBZ,LGW,M,EUK,Ibiza,GBP,5.0,0.18
+N,55,1,N,Innsbruck,RT,London (Gatwick),Gatwick,110,109.88,London,INN,Innsbruck (Kranebitten),INN,LGW,M,EUK,Kranebitten,GBP,5.0,0.14
+N,444,1,N,Islamabad,RT,London (Gatwick),Gatwick,887,886.68,London,ISB,Islamabad,ISB,LGW,M,SAS,Islamabad,GBP,20.0,0.07
+N,65,1,N,Istanbul,RT,London (Heathrow),Heathrow,130,129.09,London,IST,Istanbul (Istanbul Airport),IST,LHR,M,EUK,Istanbul Airport,GBP,10.0,0.23
+N,43,1,N,Jersey,RT,London (Gatwick),Gatwick,85,84.82,London,JER,Jersey,JER,LGW,M,EUK,Jersey,GBP,5.0,0.18
+N,368,1,N,Johannesburg,RT,London (Heathrow),Heathrow,735,734.69,London,JNB,Johannesburg,JNB,LHR,M,AFR,Johannesburg,GBP,20.0,0.08
+Y,324,1,N,Kingston,RT,London (Gatwick),Gatwick,647,646.18,London,KIN,Kingston,KIN,LGW,M,SOA,Kingston,GBP,20.0,0.09
+Y,148,1,N,Kos,RT,London (Heathrow),Heathrow,295,294.69,London,KGS,Kos,KGS,LHR,M,EUK,Kos,GBP,10.0,0.1
+N,46,1,N,Krakow,RT,London (Heathrow),Heathrow,92,91.09,London,KRK,Krakow,KRK,LHR,M,EUK,Krakow,GBP,5.0,0.16
+Y,1168,1,N,Kuwait,RT,London (Heathrow),Heathrow,2336,2335.39,London,KWI,Kuwait,KWI,LHR,M,MDE,Kuwait,GBP,20.0,0.03
+N,1870,1,N,Lagos,RT,London (Heathrow),Heathrow,3740,3739.69,London,LOS,Lagos,LOS,LHR,M,AFR,Lagos,GBP,20.0,0.02
+N,55,1,N,Lanzarote,RT,London (Gatwick),Gatwick,110,109.48,London,ACE,Lanzarote,ACE,LGW,M,EUK,Arrecife,GBP,10.0,0.27
+Y,58,1,N,Larnaca,RT,London (Gatwick),Gatwick,116,115.58,London,LCA,Larnaca,LCA,LGW,M,EUK,Larnaca,GBP,10.0,0.26
+Y,337,1,N,Las Vegas,RT,London (Gatwick),Gatwick,674,673.38,London,LAS,Las Vegas (Harry Reid Intl),LAS,LGW,M,NOA,Harry Reid Intl,GBP,20.0,0.09
+N,50,1,N,Lisbon,RT,London (Heathrow),Heathrow,99,98.99,London,LIS,Lisbon,LIS,LHR,M,EUK,Lisbon,GBP,5.0,0.15
+N,66,1,N,Ljubljana,RT,London (Heathrow),Heathrow,132,131.29,London,LJU,Ljubljana,LJU,LHR,M,EUK,Joze Pucnik,GBP,5.0,0.11
+N,254,1,N,Los Angeles,RT,London (Heathrow),Heathrow,507,506.59,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,M,NOA,Los Angeles International,GBP,20.0,0.12
+N,31,1,N,Luxembourg,RT,London (Heathrow),Heathrow,62,61.89,London,LUX,Luxembourg,LUX,LHR,M,EUK,Luxembourg,GBP,5.0,0.24
+N,43,1,N,Lyon,RT,London (Heathrow),Heathrow,86,85.69,London,LYS,Lyon (Saint Exupery),LYS,LHR,M,EUK,Saint Exupery,GBP,5.0,0.18
+N,36,1,N,Madrid,RT,London (Heathrow),Heathrow,72,71.89,London,MAD,Madrid,MAD,LHR,M,EUK,Madrid,GBP,5.0,0.21
+N,40,1,N,Malaga,RT,London (Heathrow),Heathrow,79,78.99,London,AGP,Malaga,AGP,LHR,M,EUK,Malaga,GBP,5.0,0.19
+N,351,1,N,Male,RT,London (Heathrow),Heathrow,701,700.29,London,MLE,Male (Male International),MLE,LHR,M,SAS,Male International,GBP,20.0,0.09
+N,56,1,N,Malta,RT,London (Gatwick),Gatwick,111,110.18,London,MLA,Malta,MLA,LGW,M,EUK,Luqa International,GBP,10.0,0.27
+N,38,1,N,Manchester,RT,London (Heathrow),Heathrow,75,74.52,London,MAN,Manchester,MAN,LHR,M,EUK,Manchester,GBP,5.0,0.2
+N,52,1,N,Marrakech,RT,London (Gatwick),Gatwick,103,102.48,London,RAK,Marrakech,RAK,LGW,M,AFR,Marrakech,GBP,10.0,0.29
+N,44,1,N,Marseille,RT,London (Heathrow),Heathrow,88,87.19,London,MRS,Marseille,MRS,LHR,M,EUK,Marseille,GBP,5.0,0.17
+N,358,1,N,Mauritius,RT,London (Gatwick),Gatwick,715,714.58,London,MRU,Mauritius,MRU,LGW,M,AFR,Mauritius,GBP,20.0,0.08
+N,393,1,N,Mexico City,RT,London (Heathrow),Heathrow,786,785.89,London,MEX,Mexico City (Mexico),MEX,LHR,M,SOA,Mexico,GBP,20.0,0.08
+N,234,1,N,Miami,RT,London (Heathrow),Heathrow,467,466.09,London,MIA,Miami (Miami International),MIA,LHR,M,NOA,Miami International,GBP,20.0,0.13
+N,43,1,N,Milan,RT,London (Heathrow),Heathrow,86,85.89,London,MXP,Milan (Malpensa),MIL,LHR,M,EUK,Malpensa,GBP,5.0,0.17
+N,205,1,N,Montreal,RT,London (Heathrow),Heathrow,410,409.89,London,YUL,Montreal,YMQ,LHR,M,NOA,Montreal,GBP,20.0,0.15
+N,275,1,N,Mumbai,RT,London (Heathrow),Heathrow,549,548.39,London,BOM,Mumbai,BOM,LHR,M,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,20.0,0.11
+N,51,1,N,Munich,RT,London (Heathrow),Heathrow,102,101.79,London,MUC,Munich,MUC,LHR,M,EUK,Munich,GBP,5.0,0.15
+Y,74,1,N,Mykonos,RT,London (Heathrow),Heathrow,148,147.69,London,JMK,Mykonos,JMK,LHR,M,EUK,Mykonos,GBP,10.0,0.2
+N,351,1,N,Nairobi,RT,London (Heathrow),Heathrow,702,701.69,London,NBO,Nairobi,NBO,LHR,M,AFR,Nairobi,GBP,20.0,0.09
+N,334,1,N,Nashville,RT,London (Heathrow),Heathrow,667,666.59,London,BNA,Nashville,BNA,LHR,M,NOA,Nashville International,GBP,20.0,0.09
+N,343,1,N,Nassau,RT,London (Heathrow),Heathrow,686,685.99,London,NAS,Nassau,NAS,LHR,M,SOA,Nassau,GBP,20.0,0.09
+N,346,1,N,New Orleans,RT,London (Heathrow),Heathrow,691,690.09,London,MSY,New Orleans,MSY,LHR,M,NOA,Louis Armstrong International,GBP,20.0,0.09
+N,217,1,N,New York,RT,London (Heathrow),Heathrow,433,432.59,London,JFK,New York (John F Kennedy),NYC,LHR,M,NOA,John F Kennedy,GBP,20.0,0.14
+N,33,1,N,Newcastle,RT,London (Heathrow),Heathrow,66,65.41,London,NCL,Newcastle,NCL,LHR,M,EUK,Newcastle International,GBP,5.0,0.23
+N,41,1,N,Nice,RT,London (Heathrow),Heathrow,81,80.59,London,NCE,Nice,NCE,LHR,M,EUK,Nice,GBP,5.0,0.19
+Y,58,1,N,Olbia,RT,London (Heathrow),Heathrow,115,114.89,London,OLB,Olbia,OLB,LHR,M,EUK,Olbia,GBP,5.0,0.13
+N,216,1,N,Orlando,RT,London (Gatwick),Gatwick,431,430.88,London,MCO,Orlando,ORL,LGW,M,NOA,Orlando International,GBP,20.0,0.14
+N,37,1,N,Oslo,RT,London (Heathrow),Heathrow,73,72.49,London,OSL,Oslo,OSL,LHR,M,EUK,Oslo,GBP,5.0,0.21
+Y,57,1,N,Palma,RT,London (City Airport),City Airport,113,112.19,London,PMI,Palma,PMI,LCY,M,EUK,Palma,GBP,5.0,0.13
+Y,73,1,N,Paphos,RT,London (Gatwick),Gatwick,146,145.98,London,PFO,Paphos,PFO,LGW,M,EUK,Paphos,GBP,10.0,0.21
+N,42,1,N,Paris,RT,London (Heathrow),Heathrow,83,82.39,London,CDG,Paris (Charles de Gaulle),PAR,LHR,M,EUK,Charles de Gaulle,GBP,5.0,0.18
+N,264,1,N,Philadelphia,RT,London (Heathrow),Heathrow,527,526.09,London,PHL,Philadelphia,PHL,LHR,M,NOA,Philadelphia International,GBP,20.0,0.11
+N,347,1,N,Phoenix,RT,London (Heathrow),Heathrow,694,693.59,London,PHX,Phoenix (Sky Harbor International),PHX,LHR,M,NOA,Sky Harbor International,GBP,20.0,0.09
+Y,36,1,N,Pisa,RT,London (Heathrow),Heathrow,72,71.69,London,PSA,Pisa,PSA,LHR,M,EUK,Pisa,GBP,5.0,0.21
+Y,152,1,N,Ponta Delgada,RT,London (Heathrow),Heathrow,304,303.29,London,PDL,Ponta Delgada,PDL,LHR,M,EUK,Ponta Delgada,GBP,10.0,0.1
+Y,354,1,N,Port of Spain,RT,London (Gatwick),Gatwick,708,707.08,London,POS,Port of Spain,POS,LGW,M,SOA,Port of Spain,GBP,20.0,0.08
+N,40,1,N,Prague,RT,London (Heathrow),Heathrow,80,79.59,London,PRG,Prague,PRG,LHR,M,EUK,Prague,GBP,5.0,0.19
+Y,296,1,N,Punta Cana,RT,London (Gatwick),Gatwick,592,591.58,London,PUJ,Punta Cana,PUJ,LGW,M,SOA,Punta Cana,GBP,20.0,0.1
+N,56,1,N,Reykjavik,RT,London (Heathrow),Heathrow,111,110.79,London,KEF,Reykjavik (Keflavik),REK,LHR,M,EUK,Keflavik,GBP,10.0,0.27
+Y,91,1,N,Rhodes,RT,London (Gatwick),Gatwick,182,181.88,London,RHO,Rhodes,RHO,LGW,M,EUK,Rhodes,GBP,10.0,0.16
+N,39,1,N,Riga,RT,London (Heathrow),Heathrow,77,76.59,London,RIX,Riga,RIX,LHR,M,EUK,Riga,GBP,5.0,0.2
+N,1241,1,N,Riyadh,RT,London (Heathrow),Heathrow,2481,2480.29,London,RUH,Riyadh,RUH,LHR,M,MDE,King Khalid International,GBP,20.0,0.02
+N,54,1,N,Rome,RT,London (Heathrow),Heathrow,107,106.79,London,FCO,Rome (Fiumicino),ROM,LHR,M,EUK,Fiumicino,GBP,5.0,0.14
+N,76,1,N,Rotterdam,RT,London (City Airport),City Airport,152,151.19,London,RTM,Rotterdam,RTM,LCY,M,EUK,Rotterdam,GBP,5.0,0.1
+N,51,1,N,Salzburg,RT,London (Gatwick),Gatwick,102,101.18,London,SZG,Salzburg,SZG,LGW,M,EUK,Salzburg,GBP,5.0,0.15
+N,262,1,N,San Diego,RT,London (Heathrow),Heathrow,524,523.59,London,SAN,San Diego,SAN,LHR,M,NOA,San Diego International,GBP,20.0,0.11
+N,242,1,N,San Francisco,RT,London (Heathrow),Heathrow,483,482.59,London,SFO,San Francisco,SFO,LHR,M,NOA,San Francisco International,GBP,20.0,0.12
+Y,97,1,N,San Sebastian,RT,London (City Airport),City Airport,193,192.89,London,EAS,San Sebastian,EAS,LCY,M,EUK,San Sebastian,GBP,5.0,0.08
+N,412,1,N,Santiago,RT,London (Heathrow),Heathrow,823,822.79,London,SCL,Santiago,SCL,LHR,M,SOA,Santiago,GBP,20.0,0.07
+N,345,1,N,Sao Paulo,RT,London (Heathrow),Heathrow,690,689.49,London,GRU,Sao Paulo (Guarulhos Intl),SAO,LHR,M,SOA,Guarulhos Intl,GBP,20.0,0.09
+N,300,1,N,Seattle,RT,London (Heathrow),Heathrow,599,598.59,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,M,NOA,Seattle-Tacoma International,GBP,20.0,0.1
+N,43,1,N,Seville,RT,London (Gatwick),Gatwick,85,84.48,London,SVQ,Seville,SVQ,LGW,M,EUK,Seville,GBP,5.0,0.18
+Y,250,1,N,Shanghai,RT,London (Heathrow),Heathrow,499,498.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,M,FEA,Shanghai Pudong,GBP,20.0,0.12
+N,323,1,N,Singapore,RT,London (Heathrow),Heathrow,645,644.89,London,SIN,Singapore (Changi),SIN,LHR,M,FEA,Changi,GBP,20.0,0.09
+N,45,1,N,Sofia,RT,London (Heathrow),Heathrow,90,89.49,London,SOF,Sofia,SOF,LHR,M,EUK,Sofia,GBP,10.0,0.34
+Y,62,1,N,Split,RT,London (Heathrow),Heathrow,123,122.69,London,SPU,Split,SPU,LHR,M,EUK,Split,GBP,5.0,0.12
+Y,249,1,N,St Kitts,RT,London (Gatwick),Gatwick,497,496.78,London,SKB,St Kitts,SKB,LGW,M,SOA,Robert L Bradshaw International,GBP,20.0,0.12
+N,253,1,N,St Lucia,RT,London (Gatwick),Gatwick,506,505.48,London,UVF,St Lucia,SLU,LGW,M,SOA,St Lucia,GBP,20.0,0.12
+N,40,1,N,Stockholm,RT,London (Heathrow),Heathrow,80,79.39,London,ARN,Stockholm (Arlanda),STO,LHR,M,EUK,Arlanda,GBP,5.0,0.19
+N,48,1,N,Stuttgart,RT,London (Heathrow),Heathrow,95,94.39,London,STR,Stuttgart,STR,LHR,M,EUK,Stuttgart,GBP,5.0,0.16
+Y,589,1,N,Sydney,RT,London (Heathrow),Heathrow,1178,1177.49,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,M,FEA,Sydney Kingsford Smith,GBP,30.0,0.08
+N,209,1,N,Tampa,RT,London (Gatwick),Gatwick,418,417.88,London,TPA,Tampa (Tampa International),TPA,LGW,M,NOA,Tampa International,GBP,20.0,0.14
+Y,78,1,N,Thessaloniki,RT,London (Gatwick),Gatwick,155,154.98,London,SKG,Thessaloniki,SKG,LGW,M,EUK,Thessaloniki,GBP,10.0,0.19
+Y,249,1,N,Tobago,RT,London (Gatwick),Gatwick,498,497.08,London,TAB,Tobago,TAB,LGW,M,SOA,Tobago,GBP,20.0,0.12
+N,465,1,N,Tokyo,RT,London (Heathrow),Heathrow,929,928.59,London,HND,Tokyo (Haneda),TYO,LHR,M,FEA,Haneda,GBP,20.0,0.06
+N,229,1,N,Toronto,RT,London (Heathrow),Heathrow,458,457.49,London,YYZ,Toronto,YTO,LHR,M,NOA,Toronto,GBP,20.0,0.13
+N,40,1,N,Toulouse,RT,London (Heathrow),Heathrow,79,78.89,London,TLS,Toulouse,TLS,LHR,M,EUK,Toulouse,GBP,5.0,0.19
+N,50,1,N,Turin,RT,London (Gatwick),Gatwick,100,99.08,London,TRN,Turin,TRN,LGW,M,EUK,Turin,GBP,5.0,0.15
+N,323,1,N,Vancouver,RT,London (Heathrow),Heathrow,646,645.89,London,YVR,Vancouver,YVR,LHR,M,NOA,Vancouver,GBP,20.0,0.09
+N,47,1,N,Venice,RT,London (Heathrow),Heathrow,93,92.59,London,VCE,Venice (Marco Polo),VCE,LHR,M,EUK,Marco Polo,GBP,5.0,0.16
+N,42,1,N,Verona,RT,London (Gatwick),Gatwick,83,82.98,London,VRN,Verona,VRN,LGW,M,EUK,Valerio Catullo,GBP,5.0,0.18
+N,56,1,N,Vienna,RT,London (Heathrow),Heathrow,112,111.89,London,VIE,Vienna,VIE,LHR,M,EUK,Vienna,GBP,5.0,0.13
+N,41,1,N,Warsaw,RT,London (Heathrow),Heathrow,81,80.59,London,WAW,Warsaw,WAW,LHR,M,EUK,Warsaw,GBP,5.0,0.19
+N,49,1,N,Zagreb,RT,London (Heathrow),Heathrow,97,96.39,London,ZAG,Zagreb,ZAG,LHR,M,EUK,Zagreb,GBP,5.0,0.16
+N,43,1,N,Zurich,RT,London (Heathrow),Heathrow,86,85.19,London,ZRH,Zurich,ZRH,LHR,M,EUK,Zurich,GBP,5.0,0.18
+N,1226,1,N,Abuja,RT,London (Heathrow),Heathrow,2451,2450.69,London,ABV,Abuja,ABV,LHR,W,AFR,Abuja,GBP,90.0,0.11
+N,411,1,N,Accra,RT,London (Heathrow),Heathrow,822,821.99,London,ACC,Accra,ACC,LHR,W,AFR,Accra,GBP,90.0,0.33
+N,478,1,N,Antigua,RT,London (Gatwick),Gatwick,956,955.78,London,ANU,Antigua,ANU,LGW,W,SOA,Antigua,GBP,90.0,0.28
+N,558,1,N,Atlanta,RT,London (Heathrow),Heathrow,1115,1114.59,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,W,NOA,Hartsfield-Jackson Int,GBP,90.0,0.24
+N,435,1,N,Austin,RT,London (Heathrow),Heathrow,870,869.59,London,AUS,Austin,AUS,LHR,W,NOA,Austin-Bergstrom Intl,GBP,90.0,0.31
+Y,1579,1,N,Bahrain,RT,London (Heathrow),Heathrow,3157,3156.99,London,BAH,Bahrain,BAH,LHR,W,MDE,Bahrain,GBP,90.0,0.09
+Y,986,1,N,Beijing,RT,London (Heathrow),Heathrow,1972,1971.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,W,FEA,Beijing Daxing Intl,GBP,90.0,0.14
+N,475,1,N,Boston,RT,London (Heathrow),Heathrow,949,948.59,London,BOS,Boston,BOS,LHR,W,NOA,Logan International,GBP,90.0,0.28
+Y,672,1,N,Buenos Aires,RT,London (Heathrow),Heathrow,1343,1342.19,London,EZE,Buenos Aires,BUE,LHR,W,SOA,Buenos Aires,GBP,100.0,0.22
+N,487,1,N,Cancun,RT,London (Gatwick),Gatwick,973,972.98,London,CUN,Cancun,CUN,LGW,W,SOA,Cancun International,GBP,90.0,0.28
+N,834,1,N,Cape Town,RT,London (Heathrow),Heathrow,1668,1667.69,London,CPT,Cape Town,CPT,LHR,W,AFR,Cape Town,GBP,100.0,0.18
+N,529,1,N,Chennai,RT,London (Heathrow),Heathrow,1057,1056.19,London,MAA,Chennai,MAA,LHR,W,SAS,Chennai,GBP,90.0,0.26
+N,485,1,N,Chicago,RT,London (Heathrow),Heathrow,970,969.59,London,ORD,Chicago (O'Hare International),CHI,LHR,W,NOA,O'Hare International,GBP,90.0,0.28
+N,551,1,N,Cincinnati,RT,London (Heathrow),Heathrow,1101,1100.09,London,CVG,Cincinnati (Cincinnati/N Kentucky International),CVG,LHR,W,NOA,Cincinnati/N Kentucky International,GBP,90.0,0.25
+N,657,1,N,Dallas,RT,London (Heathrow),Heathrow,1313,1312.59,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,W,NOA,Dallas Ft Worth,GBP,90.0,0.21
+N,463,1,N,Denver,RT,London (Heathrow),Heathrow,925,924.59,London,DEN,Denver (Denver International),DEN,LHR,W,NOA,Denver International,GBP,90.0,0.29
+N,546,1,N,Doha,RT,London (Heathrow),Heathrow,1092,1091.99,London,DOH,Doha,DOH,LHR,W,MDE,Doha,GBP,90.0,0.25
+N,1552,1,N,Dubai,RT,London (Heathrow),Heathrow,3104,3103.39,London,DXB,Dubai,DXB,LHR,W,MDE,Dubai,GBP,90.0,0.09
+N,1844,1,N,Grand Cayman,RT,London (Heathrow),Heathrow,3687,3686.59,London,GCM,Grand Cayman,GCM,LHR,W,SOA,Grand Cayman,GBP,90.0,0.07
+Y,484,1,N,Grenada,RT,London (Gatwick),Gatwick,968,967.28,London,GND,Grenada,GND,LGW,W,SOA,Grenada,GBP,90.0,0.28
+N,591,1,N,Hong Kong,RT,London (Heathrow),Heathrow,1182,1181.69,London,HKG,Hong Kong,HKG,LHR,W,FEA,Hong Kong,GBP,100.0,0.25
+N,581,1,N,Houston,RT,London (Heathrow),Heathrow,1162,1161.59,London,IAH,Houston (George Bush Intercont),HOU,LHR,W,NOA,George Bush Intercont,GBP,90.0,0.23
+N,493,1,N,Hyderabad,RT,London (Heathrow),Heathrow,985,984.59,London,HYD,Hyderabad,HYD,LHR,W,SAS,Rajiv Gandhi Intl,GBP,90.0,0.27
+N,683,1,N,Islamabad,RT,London (Gatwick),Gatwick,1366,1365.58,London,ISB,Islamabad,ISB,LGW,W,SAS,Islamabad,GBP,90.0,0.2
+N,721,1,N,Johannesburg,RT,London (Heathrow),Heathrow,1441,1440.69,London,JNB,Johannesburg,JNB,LHR,W,AFR,Johannesburg,GBP,90.0,0.19
+Y,528,1,N,Kingston,RT,London (Gatwick),Gatwick,1055,1054.18,London,KIN,Kingston,KIN,LGW,W,SOA,Kingston,GBP,90.0,0.26
+Y,1542,1,N,Kuwait,RT,London (Heathrow),Heathrow,3084,3083.39,London,KWI,Kuwait,KWI,LHR,W,MDE,Kuwait,GBP,90.0,0.09
+N,1226,1,N,Lagos,RT,London (Heathrow),Heathrow,2451,2450.69,London,LOS,Lagos,LOS,LHR,W,AFR,Lagos,GBP,90.0,0.11
+Y,619,1,N,Las Vegas,RT,London (Gatwick),Gatwick,1237,1236.38,London,LAS,Las Vegas (Harry Reid Intl),LAS,LGW,W,NOA,Harry Reid Intl,GBP,90.0,0.22
+N,450,1,N,Los Angeles,RT,London (Heathrow),Heathrow,899,898.59,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,W,NOA,Los Angeles International,GBP,90.0,0.3
+N,672,1,N,Male,RT,London (Heathrow),Heathrow,1343,1342.29,London,MLE,Male (Male International),MLE,LHR,W,SAS,Male International,GBP,90.0,0.2
+N,770,1,N,Mauritius,RT,London (Gatwick),Gatwick,1540,1539.18,London,MRU,Mauritius,MRU,LGW,W,AFR,Mauritius,GBP,100.0,0.19
+N,549,1,N,Mexico City,RT,London (Heathrow),Heathrow,1097,1096.89,London,MEX,Mexico City (Mexico),MEX,LHR,W,SOA,Mexico,GBP,90.0,0.25
+N,500,1,N,Miami,RT,London (Heathrow),Heathrow,999,998.59,London,MIA,Miami (Miami International),MIA,LHR,W,NOA,Miami International,GBP,90.0,0.27
+N,465,1,N,Montreal,RT,London (Heathrow),Heathrow,929,928.89,London,YUL,Montreal,YMQ,LHR,W,NOA,Montreal,GBP,90.0,0.29
+N,443,1,N,Mumbai,RT,London (Heathrow),Heathrow,885,884.39,London,BOM,Mumbai,BOM,LHR,W,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,90.0,0.31
+N,611,1,N,Nairobi,RT,London (Heathrow),Heathrow,1221,1220.69,London,NBO,Nairobi,NBO,LHR,W,AFR,Nairobi,GBP,90.0,0.22
+N,530,1,N,Nashville,RT,London (Heathrow),Heathrow,1059,1058.09,London,BNA,Nashville,BNA,LHR,W,NOA,Nashville International,GBP,90.0,0.26
+N,656,1,N,Nassau,RT,London (Heathrow),Heathrow,1311,1310.99,London,NAS,Nassau,NAS,LHR,W,SOA,Nassau,GBP,90.0,0.21
+N,626,1,N,New Orleans,RT,London (Heathrow),Heathrow,1251,1250.09,London,MSY,New Orleans,MSY,LHR,W,NOA,Louis Armstrong International,GBP,90.0,0.22
+N,422,1,N,New York,RT,London (Heathrow),Heathrow,843,842.59,London,JFK,New York (John F Kennedy),NYC,LHR,W,NOA,John F Kennedy,GBP,90.0,0.32
+N,520,1,N,Orlando,RT,London (Gatwick),Gatwick,1039,1038.38,London,MCO,Orlando,ORL,LGW,W,NOA,Orlando International,GBP,90.0,0.26
+N,480,1,N,Philadelphia,RT,London (Heathrow),Heathrow,959,958.59,London,PHL,Philadelphia,PHL,LHR,W,NOA,Philadelphia International,GBP,90.0,0.28
+N,579,1,N,Phoenix,RT,London (Heathrow),Heathrow,1158,1157.59,London,PHX,Phoenix (Sky Harbor International),PHX,LHR,W,NOA,Sky Harbor International,GBP,90.0,0.23
+Y,673,1,N,Port of Spain,RT,London (Gatwick),Gatwick,1346,1345.08,London,POS,Port of Spain,POS,LGW,W,SOA,Port of Spain,GBP,90.0,0.2
+Y,526,1,N,Punta Cana,RT,London (Gatwick),Gatwick,1052,1051.48,London,PUJ,Punta Cana,PUJ,LGW,W,SOA,Punta Cana,GBP,90.0,0.26
+N,1584,1,N,Riyadh,RT,London (Heathrow),Heathrow,3167,3166.29,London,RUH,Riyadh,RUH,LHR,W,MDE,King Khalid International,GBP,90.0,0.09
+N,535,1,N,San Diego,RT,London (Heathrow),Heathrow,1070,1069.09,London,SAN,San Diego,SAN,LHR,W,NOA,San Diego International,GBP,90.0,0.25
+N,430,1,N,San Francisco,RT,London (Heathrow),Heathrow,860,859.09,London,SFO,San Francisco,SFO,LHR,W,NOA,San Francisco International,GBP,90.0,0.31
+N,744,1,N,Santiago,RT,London (Heathrow),Heathrow,1488,1487.99,London,SCL,Santiago,SCL,LHR,W,SOA,Santiago,GBP,100.0,0.2
+N,591,1,N,Sao Paulo,RT,London (Heathrow),Heathrow,1182,1181.49,London,GRU,Sao Paulo (Guarulhos Intl),SAO,LHR,W,SOA,Guarulhos Intl,GBP,90.0,0.23
+N,480,1,N,Seattle,RT,London (Heathrow),Heathrow,959,958.59,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,W,NOA,Seattle-Tacoma International,GBP,90.0,0.28
+Y,471,1,N,Shanghai,RT,London (Heathrow),Heathrow,941,940.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,W,FEA,Shanghai Pudong,GBP,90.0,0.29
+N,835,1,N,Singapore,RT,London (Heathrow),Heathrow,1669,1668.99,London,SIN,Singapore (Changi),SIN,LHR,W,FEA,Changi,GBP,100.0,0.18
+Y,479,1,N,St Kitts,RT,London (Gatwick),Gatwick,957,956.78,London,SKB,St Kitts,SKB,LGW,W,SOA,Robert L Bradshaw International,GBP,90.0,0.28
+N,503,1,N,St Lucia,RT,London (Gatwick),Gatwick,1006,1005.48,London,UVF,St Lucia,SLU,LGW,W,SOA,St Lucia,GBP,90.0,0.27
+Y,1405,1,N,Sydney,RT,London (Heathrow),Heathrow,2809,2808.49,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,W,FEA,Sydney Kingsford Smith,GBP,150.0,0.16
+N,480,1,N,Tampa,RT,London (Gatwick),Gatwick,960,959.88,London,TPA,Tampa (Tampa International),TPA,LGW,W,NOA,Tampa International,GBP,90.0,0.28
+Y,479,1,N,Tobago,RT,London (Gatwick),Gatwick,958,957.08,London,TAB,Tobago,TAB,LGW,W,SOA,Tobago,GBP,90.0,0.28
+N,757,1,N,Tokyo,RT,London (Heathrow),Heathrow,1513,1512.59,London,HND,Tokyo (Haneda),TYO,LHR,W,FEA,Haneda,GBP,100.0,0.2
+N,418,1,N,Toronto,RT,London (Heathrow),Heathrow,835,834.29,London,YYZ,Toronto,YTO,LHR,W,NOA,Toronto,GBP,90.0,0.32
+N,538,1,N,Vancouver,RT,London (Heathrow),Heathrow,1075,1074.89,London,YVR,Vancouver,YVR,LHR,W,NOA,Vancouver,GBP,90.0,0.25
+N,1226,1,N,Abuja,RT,London (Heathrow),Heathrow,2451,2450.69,London,ABV,Abuja,ABV,LHR,C,AFR,Abuja,GBP,140.0,0.17
+N,1049,1,N,Accra,RT,London (Heathrow),Heathrow,2097,2096.69,London,ACC,Accra,ACC,LHR,C,AFR,Accra,GBP,140.0,0.2
+N,249,1,N,Algiers,RT,London (Gatwick),Gatwick,497,496.68,London,ALG,Algiers,ALG,LGW,C,AFR,Algiers,GBP,80.0,0.48
+N,145,1,N,Alicante,RT,London (Gatwick),Gatwick,289,288.18,London,ALC,Alicante,ALC,LGW,C,EUK,Alicante,GBP,40.0,0.42
+N,474,1,N,Amman,RT,London (Heathrow),Heathrow,948,947.99,London,AMM,Amman,AMM,LHR,C,MDE,Amman,GBP,80.0,0.25
+N,136,1,N,Amsterdam,RT,London (Heathrow),Heathrow,271,270.59,London,AMS,Amsterdam,AMS,LHR,C,EUK,Amsterdam,GBP,40.0,0.44
+N,283,1,N,Antalya,RT,London (Gatwick),Gatwick,565,564.38,London,AYT,Antalya,AYT,LGW,C,EUK,Antalya,GBP,80.0,0.43
+N,1059,1,N,Antigua,RT,London (Gatwick),Gatwick,2117,2116.78,London,ANU,Antigua,ANU,LGW,C,SOA,Antigua,GBP,140.0,0.2
+N,221,1,N,Athens,RT,London (Heathrow),Heathrow,442,441.89,London,ATH,Athens,ATH,LHR,C,EUK,Athens,GBP,80.0,0.54
+N,1139,1,N,Atlanta,RT,London (Heathrow),Heathrow,2277,2276.59,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,C,NOA,Hartsfield-Jackson Int,GBP,140.0,0.18
+N,1400,1,N,Austin,RT,London (Heathrow),Heathrow,2799,2798.09,London,AUS,Austin,AUS,LHR,C,NOA,Austin-Bergstrom Intl,GBP,140.0,0.15
+N,1917,1,N,Bahrain,RT,London (Heathrow),Heathrow,3833,3832.99,London,BAH,Bahrain,BAH,LHR,C,MDE,Bahrain,GBP,140.0,0.11
+N,180,1,N,Barcelona,RT,London (Heathrow),Heathrow,359,358.09,London,BCN,Barcelona,BCN,LHR,C,EUK,Barcelona,GBP,40.0,0.34
+N,253,1,N,Bari,RT,London (Gatwick),Gatwick,505,504.88,London,BRI,Bari,BRI,LGW,C,EUK,Bari,GBP,40.0,0.24
+N,102,1,N,Basel,RT,London (Heathrow),Heathrow,204,203.49,London,BSL,Basel,BSL,LHR,C,EUK,Basel,GBP,40.0,0.59
+Y,986,1,N,Beijing,RT,London (Heathrow),Heathrow,1972,1971.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,C,FEA,Beijing Daxing Intl,GBP,140.0,0.21
+N,104,1,N,Billund,RT,London (Heathrow),Heathrow,207,206.69,London,BLL,Billund,BLL,LHR,C,EUK,Billund,GBP,40.0,0.58
+N,117,1,N,Bologna,RT,London (Heathrow),Heathrow,233,232.29,London,BLQ,Bologna,BLQ,LHR,C,EUK,Bologna,GBP,40.0,0.52
+N,139,1,N,Bordeaux,RT,London (Gatwick),Gatwick,278,277.08,London,BOD,Bordeaux,BOD,LGW,C,EUK,Bordeaux,GBP,40.0,0.43
+N,1450,1,N,Boston,RT,London (Heathrow),Heathrow,2899,2898.59,London,BOS,Boston,BOS,LHR,C,NOA,Logan International,GBP,140.0,0.14
+N,109,1,N,Brussels,RT,London (Heathrow),Heathrow,217,216.69,London,BRU,Brussels,BRU,LHR,C,EUK,Brussels,GBP,40.0,0.55
+N,151,1,N,Bucharest,RT,London (Heathrow),Heathrow,302,301.89,London,OTP,Bucharest,BUH,LHR,C,EUK,Bucharest,GBP,80.0,0.79
+N,157,1,N,Budapest,RT,London (Heathrow),Heathrow,314,313.59,London,BUD,Budapest,BUD,LHR,C,EUK,Budapest,GBP,40.0,0.38
+Y,1635,1,N,Buenos Aires,RT,London (Heathrow),Heathrow,3269,3268.79,London,EZE,Buenos Aires,BUE,LHR,C,SOA,Buenos Aires,GBP,160.0,0.15
+N,423,1,N,Cairo,RT,London (Heathrow),Heathrow,846,845.79,London,CAI,Cairo,CAI,LHR,C,AFR,Cairo,GBP,80.0,0.28
+N,1160,1,N,Cancun,RT,London (Gatwick),Gatwick,2319,2318.88,London,CUN,Cancun,CUN,LGW,C,SOA,Cancun International,GBP,140.0,0.18
+N,2018,1,N,Cape Town,RT,London (Heathrow),Heathrow,4036,4035.69,London,CPT,Cape Town,CPT,LHR,C,AFR,Cape Town,GBP,160.0,0.12
+Y,256,1,N,Catania,RT,London (Gatwick),Gatwick,512,511.98,London,CTA,Catania,CTA,LGW,C,EUK,Catania,GBP,80.0,0.47
+N,166,1,N,Chambery,RT,London (City Airport),City Airport,331,330.69,London,CMF,Chambery,CMF,LCY,C,EUK,Chambery,GBP,40.0,0.36
+N,1323,1,N,Chennai,RT,London (Heathrow),Heathrow,2645,2644.19,London,MAA,Chennai,MAA,LHR,C,SAS,Chennai,GBP,140.0,0.16
+N,1292,1,N,Chicago,RT,London (Heathrow),Heathrow,2583,2582.59,London,ORD,Chicago (O'Hare International),CHI,LHR,C,NOA,O'Hare International,GBP,140.0,0.16
+N,1239,1,N,Cincinnati,RT,London (Heathrow),Heathrow,2478,2477.09,London,CVG,Cincinnati (Cincinnati/N Kentucky International),CVG,LHR,C,NOA,Cincinnati/N Kentucky International,GBP,140.0,0.17
+N,112,1,N,Cologne,RT,London (Heathrow),Heathrow,224,223.69,London,CGN,Cologne (Cologne/Bonn),CGN,LHR,C,EUK,Cologne/Bonn,GBP,40.0,0.54
+N,119,1,N,Copenhagen,RT,London (Heathrow),Heathrow,238,237.19,London,CPH,Copenhagen,CPH,LHR,C,EUK,Copenhagen,GBP,40.0,0.51
+N,228,1,N,Corfu,RT,London (Heathrow),Heathrow,456,455.79,London,CFU,Corfu,CFU,LHR,C,EUK,Ioannis Kapodistrias,GBP,80.0,0.53
+N,241,1,N,Dalaman,RT,London (Gatwick),Gatwick,482,481.38,London,DLM,Dalaman,DLM,LGW,C,EUK,Dalaman,GBP,80.0,0.5
+N,1549,1,N,Dallas,RT,London (Heathrow),Heathrow,3097,3096.09,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,C,NOA,Dallas Ft Worth,GBP,140.0,0.14
+N,1606,1,N,Denver,RT,London (Heathrow),Heathrow,3212,3211.59,London,DEN,Denver (Denver International),DEN,LHR,C,NOA,Denver International,GBP,140.0,0.13
+N,1985,1,N,Doha,RT,London (Heathrow),Heathrow,3970,3969.59,London,DOH,Doha,DOH,LHR,C,MDE,Doha,GBP,140.0,0.11
+N,1695,1,N,Dubai,RT,London (Heathrow),Heathrow,3389,3388.99,London,DXB,Dubai,DXB,LHR,C,MDE,Dubai,GBP,140.0,0.12
+N,104,1,N,Dublin,RT,London (Heathrow),Heathrow,208,207.14,London,DUB,Dublin,DUB,LHR,C,EUK,Dublin,GBP,40.0,0.58
+N,197,1,N,Dubrovnik,RT,London (Gatwick),Gatwick,394,393.28,London,DBV,Dubrovnik,DBV,LGW,C,EUK,Dubrovnik,GBP,40.0,0.31
+N,114,1,N,Dusseldorf,RT,London (Heathrow),Heathrow,228,227.59,London,DUS,Dusseldorf,DUS,LHR,C,EUK,Dusseldorf,GBP,40.0,0.53
+N,185,1,N,Faro,RT,London (Heathrow),Heathrow,370,369.99,London,FAO,Faro,FAO,LHR,C,EUK,Faro,GBP,40.0,0.32
+N,163,1,N,Florence,RT,London (City Airport),City Airport,326,325.89,London,FLR,Florence,FLR,LCY,C,EUK,Peretola,GBP,40.0,0.37
+N,118,1,N,Frankfurt,RT,London (Heathrow),Heathrow,235,234.99,London,FRA,Frankfurt,FRA,LHR,C,EUK,Frankfurt,GBP,40.0,0.51
+N,282,1,N,Funchal,RT,London (Gatwick),Gatwick,564,563.38,London,FNC,Funchal,FNC,LGW,C,EUK,Madeira,GBP,80.0,0.43
+N,154,1,N,Geneva,RT,London (Heathrow),Heathrow,308,307.59,London,GVA,Geneva,GVA,LHR,C,EUK,Geneva,GBP,40.0,0.39
+N,185,1,N,Gibraltar,RT,London (Heathrow),Heathrow,370,369.99,London,GIB,Gibraltar,GIB,LHR,C,EUK,Gibraltar,GBP,40.0,0.32
+N,113,1,N,Gothenburg,RT,London (Heathrow),Heathrow,225,224.99,London,GOT,Gothenburg,GOT,LHR,C,EUK,Gothenburg,GBP,40.0,0.53
+N,260,1,N,Gran Canaria,RT,London (Gatwick),Gatwick,520,519.18,London,LPA,Gran Canaria,LPA,LGW,C,EUK,Gran Canaria,GBP,80.0,0.46
+N,1844,1,N,Grand Cayman,RT,London (Heathrow),Heathrow,3687,3686.59,London,GCM,Grand Cayman,GCM,LHR,C,SOA,Grand Cayman,GBP,140.0,0.11
+N,1135,1,N,Grenada,RT,London (Gatwick),Gatwick,2269,2268.28,London,GND,Grenada,GND,LGW,C,SOA,Grenada,GBP,140.0,0.19
+N,109,1,N,Hamburg,RT,London (Heathrow),Heathrow,218,217.99,London,HAM,Hamburg,HAM,LHR,C,EUK,Hamburg,GBP,40.0,0.55
+N,114,1,N,Hannover,RT,London (Heathrow),Heathrow,228,227.79,London,HAJ,Hannover (Hannover),HAJ,LHR,C,EUK,Hannover,GBP,40.0,0.53
+N,1596,1,N,Hong Kong,RT,London (Heathrow),Heathrow,3191,3190.89,London,HKG,Hong Kong,HKG,LHR,C,FEA,Hong Kong,GBP,160.0,0.15
+N,1564,1,N,Houston,RT,London (Heathrow),Heathrow,3127,3126.59,London,IAH,Houston (George Bush Intercont),HOU,LHR,C,NOA,George Bush Intercont,GBP,140.0,0.13
+N,1211,1,N,Hyderabad,RT,London (Heathrow),Heathrow,2421,2420.59,London,HYD,Hyderabad,HYD,LHR,C,SAS,Rajiv Gandhi Intl,GBP,140.0,0.17
+N,145,1,N,Ibiza,RT,London (City Airport),City Airport,290,289.69,London,IBZ,Ibiza,IBZ,LCY,C,EUK,Ibiza,GBP,40.0,0.41
+N,167,1,N,Innsbruck,RT,London (Gatwick),Gatwick,333,332.08,London,INN,Innsbruck (Kranebitten),INN,LGW,C,EUK,Kranebitten,GBP,40.0,0.36
+N,1399,1,N,Islamabad,RT,London (Gatwick),Gatwick,2797,2796.08,London,ISB,Islamabad,ISB,LGW,C,SAS,Islamabad,GBP,140.0,0.15
+N,217,1,N,Istanbul,RT,London (Heathrow),Heathrow,433,432.19,London,IST,Istanbul (Istanbul Airport),IST,LHR,C,EUK,Istanbul Airport,GBP,80.0,0.56
+N,128,1,N,Jersey,RT,London (Gatwick),Gatwick,256,255.82,London,JER,Jersey,JER,LGW,C,EUK,Jersey,GBP,40.0,0.47
+N,1849,1,N,Johannesburg,RT,London (Heathrow),Heathrow,3698,3697.69,London,JNB,Johannesburg,JNB,LHR,C,AFR,Johannesburg,GBP,140.0,0.11
+Y,994,1,N,Kingston,RT,London (Gatwick),Gatwick,1987,1986.18,London,KIN,Kingston,KIN,LGW,C,SOA,Kingston,GBP,140.0,0.21
+Y,329,1,N,Kos,RT,London (Heathrow),Heathrow,658,657.69,London,KGS,Kos,KGS,LHR,C,EUK,Kos,GBP,80.0,0.36
+N,138,1,N,Krakow,RT,London (Heathrow),Heathrow,276,275.09,London,KRK,Krakow,KRK,LHR,C,EUK,Krakow,GBP,40.0,0.44
+Y,2109,1,N,Kuwait,RT,London (Heathrow),Heathrow,4218,4217.39,London,KWI,Kuwait,KWI,LHR,C,MDE,Kuwait,GBP,140.0,0.1
+N,1226,1,N,Lagos,RT,London (Heathrow),Heathrow,2451,2450.69,London,LOS,Lagos,LOS,LHR,C,AFR,Lagos,GBP,140.0,0.17
+N,225,1,N,Lanzarote,RT,London (Gatwick),Gatwick,449,448.48,London,ACE,Lanzarote,ACE,LGW,C,EUK,Arrecife,GBP,80.0,0.54
+N,246,1,N,Larnaca,RT,London (Gatwick),Gatwick,492,491.58,London,LCA,Larnaca,LCA,LGW,C,EUK,Larnaca,GBP,80.0,0.49
+Y,1398,1,N,Las Vegas,RT,London (Gatwick),Gatwick,2795,2794.88,London,LAS,Las Vegas (Harry Reid Intl),LAS,LGW,C,NOA,Harry Reid Intl,GBP,140.0,0.15
+N,157,1,N,Lisbon,RT,London (Heathrow),Heathrow,313,312.09,London,LIS,Lisbon,LIS,LHR,C,EUK,Lisbon,GBP,40.0,0.38
+N,161,1,N,Ljubljana,RT,London (Heathrow),Heathrow,321,320.29,London,LJU,Ljubljana,LJU,LHR,C,EUK,Joze Pucnik,GBP,40.0,0.37
+N,1299,1,N,Los Angeles,RT,London (Heathrow),Heathrow,2598,2597.59,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,C,NOA,Los Angeles International,GBP,140.0,0.16
+N,97,1,N,Luxembourg,RT,London (Heathrow),Heathrow,193,192.89,London,LUX,Luxembourg,LUX,LHR,C,EUK,Luxembourg,GBP,40.0,0.62
+N,124,1,N,Lyon,RT,London (Heathrow),Heathrow,248,247.49,London,LYS,Lyon (Saint Exupery),LYS,LHR,C,EUK,Saint Exupery,GBP,40.0,0.48
+N,168,1,N,Madrid,RT,London (Heathrow),Heathrow,336,335.89,London,MAD,Madrid,MAD,LHR,C,EUK,Madrid,GBP,40.0,0.36
+N,148,1,N,Malaga,RT,London (City Airport),City Airport,295,294.79,London,AGP,Malaga,AGP,LCY,C,EUK,Malaga,GBP,40.0,0.41
+N,1496,1,N,Male,RT,London (Heathrow),Heathrow,2992,2991.49,London,MLE,Male (Male International),MLE,LHR,C,SAS,Male International,GBP,140.0,0.14
+N,244,1,N,Malta,RT,London (Gatwick),Gatwick,488,487.18,London,MLA,Malta,MLA,LGW,C,EUK,Luqa International,GBP,80.0,0.49
+N,217,1,N,Marrakech,RT,London (Gatwick),Gatwick,433,432.08,London,RAK,Marrakech,RAK,LGW,C,AFR,Marrakech,GBP,80.0,0.56
+N,134,1,N,Marseille,RT,London (Heathrow),Heathrow,267,266.09,London,MRS,Marseille,MRS,LHR,C,EUK,Marseille,GBP,40.0,0.45
+N,1538,1,N,Mauritius,RT,London (Gatwick),Gatwick,3076,3075.88,London,MRU,Mauritius,MRU,LGW,C,AFR,Mauritius,GBP,160.0,0.16
+N,1280,1,N,Mexico City,RT,London (Heathrow),Heathrow,2560,2559.09,London,MEX,Mexico City (Mexico),MEX,LHR,C,SOA,Mexico,GBP,140.0,0.16
+N,1190,1,N,Miami,RT,London (Heathrow),Heathrow,2380,2379.59,London,MIA,Miami (Miami International),MIA,LHR,C,NOA,Miami International,GBP,140.0,0.18
+N,149,1,N,Milan,RT,London (Heathrow),Heathrow,297,296.79,London,LIN,Milan (Linate),MIL,LHR,C,EUK,Linate,GBP,40.0,0.4
+N,1124,1,N,Montreal,RT,London (Heathrow),Heathrow,2248,2247.89,London,YUL,Montreal,YMQ,LHR,C,NOA,Montreal,GBP,140.0,0.19
+N,1456,1,N,Mumbai,RT,London (Heathrow),Heathrow,2912,2911.39,London,BOM,Mumbai,BOM,LHR,C,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,140.0,0.14
+N,131,1,N,Munich,RT,London (Heathrow),Heathrow,261,260.79,London,MUC,Munich,MUC,LHR,C,EUK,Munich,GBP,40.0,0.46
+N,217,1,N,Mykonos,RT,London (City Airport),City Airport,433,432.49,London,JMK,Mykonos,JMK,LCY,C,EUK,Mykonos,GBP,80.0,0.55
+N,1259,1,N,Nairobi,RT,London (Heathrow),Heathrow,2517,2516.69,London,NBO,Nairobi,NBO,LHR,C,AFR,Nairobi,GBP,140.0,0.17
+N,1525,1,N,Nashville,RT,London (Heathrow),Heathrow,3050,3049.59,London,BNA,Nashville,BNA,LHR,C,NOA,Nashville International,GBP,140.0,0.14
+N,1197,1,N,Nassau,RT,London (Heathrow),Heathrow,2394,2393.39,London,NAS,Nassau,NAS,LHR,C,SOA,Nassau,GBP,140.0,0.18
+N,1814,1,N,New Orleans,RT,London (Heathrow),Heathrow,3627,3626.59,London,MSY,New Orleans,MSY,LHR,C,NOA,Louis Armstrong International,GBP,140.0,0.12
+N,908,1,N,New York,RT,London (Heathrow),Heathrow,1816,1815.09,London,JFK,New York (John F Kennedy),NYC,LHR,C,NOA,John F Kennedy,GBP,140.0,0.23
+N,170,1,N,Nice,RT,London (City Airport),City Airport,340,339.19,London,NCE,Nice,NCE,LCY,C,EUK,Nice,GBP,40.0,0.35
+Y,187,1,N,Olbia,RT,London (Heathrow),Heathrow,373,372.89,London,OLB,Olbia,OLB,LHR,C,EUK,Olbia,GBP,40.0,0.32
+N,1182,1,N,Orlando,RT,London (Gatwick),Gatwick,2364,2363.88,London,MCO,Orlando,ORL,LGW,C,NOA,Orlando International,GBP,140.0,0.18
+N,146,1,N,Oslo,RT,London (Heathrow),Heathrow,291,290.59,London,OSL,Oslo,OSL,LHR,C,EUK,Oslo,GBP,40.0,0.41
+Y,150,1,N,Palma,RT,London (City Airport),City Airport,300,299.19,London,PMI,Palma,PMI,LCY,C,EUK,Palma,GBP,40.0,0.4
+Y,264,1,N,Paphos,RT,London (Gatwick),Gatwick,527,526.98,London,PFO,Paphos,PFO,LGW,C,EUK,Paphos,GBP,80.0,0.46
+N,128,1,N,Paris,RT,London (Heathrow),Heathrow,256,255.19,London,CDG,Paris (Charles de Gaulle),PAR,LHR,C,EUK,Charles de Gaulle,GBP,40.0,0.47
+N,1200,1,N,Philadelphia,RT,London (Heathrow),Heathrow,2400,2399.09,London,PHL,Philadelphia,PHL,LHR,C,NOA,Philadelphia International,GBP,140.0,0.18
+N,1325,1,N,Phoenix,RT,London (Heathrow),Heathrow,2649,2648.59,London,PHX,Phoenix (Sky Harbor International),PHX,LHR,C,NOA,Sky Harbor International,GBP,140.0,0.16
+Y,110,1,N,Pisa,RT,London (Heathrow),Heathrow,219,218.69,London,PSA,Pisa,PSA,LHR,C,EUK,Pisa,GBP,40.0,0.55
+Y,352,1,N,Ponta Delgada,RT,London (Heathrow),Heathrow,703,702.29,London,PDL,Ponta Delgada,PDL,LHR,C,EUK,Ponta Delgada,GBP,80.0,0.34
+Y,1020,1,N,Port of Spain,RT,London (Gatwick),Gatwick,2039,2038.38,London,POS,Port of Spain,POS,LGW,C,SOA,Port of Spain,GBP,140.0,0.21
+N,122,1,N,Prague,RT,London (Heathrow),Heathrow,244,243.59,London,PRG,Prague,PRG,LHR,C,EUK,Prague,GBP,40.0,0.49
+Y,1025,1,N,Punta Cana,RT,London (Gatwick),Gatwick,2049,2048.48,London,PUJ,Punta Cana,PUJ,LGW,C,SOA,Punta Cana,GBP,140.0,0.21
+N,204,1,N,Reykjavik,RT,London (Heathrow),Heathrow,407,406.79,London,KEF,Reykjavik (Keflavik),REK,LHR,C,EUK,Keflavik,GBP,80.0,0.59
+Y,306,1,N,Rhodes,RT,London (Gatwick),Gatwick,612,611.88,London,RHO,Rhodes,RHO,LGW,C,EUK,Rhodes,GBP,80.0,0.39
+N,150,1,N,Riga,RT,London (Heathrow),Heathrow,300,299.59,London,RIX,Riga,RIX,LHR,C,EUK,Riga,GBP,40.0,0.4
+Y,3299,1,N,Riyadh,RT,London (Heathrow),Heathrow,6598,6597.39,London,RUH,Riyadh,RUH,LHR,C,MDE,King Khalid International,GBP,140.0,0.06
+N,198,1,N,Rome,RT,London (Heathrow),Heathrow,395,394.79,London,FCO,Rome (Fiumicino),ROM,LHR,C,EUK,Fiumicino,GBP,40.0,0.3
+N,140,1,N,Rotterdam,RT,London (City Airport),City Airport,279,278.19,London,RTM,Rotterdam,RTM,LCY,C,EUK,Rotterdam,GBP,40.0,0.43
+N,156,1,N,Salzburg,RT,London (Gatwick),Gatwick,311,310.18,London,SZG,Salzburg,SZG,LGW,C,EUK,Salzburg,GBP,40.0,0.39
+N,1375,1,N,San Diego,RT,London (Heathrow),Heathrow,2750,2749.09,London,SAN,San Diego,SAN,LHR,C,NOA,San Diego International,GBP,140.0,0.15
+N,1375,1,N,San Francisco,RT,London (Heathrow),Heathrow,2749,2748.59,London,SFO,San Francisco,SFO,LHR,C,NOA,San Francisco International,GBP,140.0,0.15
+Y,190,1,N,San Sebastian,RT,London (City Airport),City Airport,380,379.89,London,EAS,San Sebastian,EAS,LCY,C,EUK,San Sebastian,GBP,40.0,0.32
+N,1493,1,N,Santiago,RT,London (Heathrow),Heathrow,2986,2985.99,London,SCL,Santiago,SCL,LHR,C,SOA,Santiago,GBP,160.0,0.16
+N,1371,1,N,Sao Paulo,RT,London (Heathrow),Heathrow,2742,2741.49,London,GRU,Sao Paulo (Guarulhos Intl),SAO,LHR,C,SOA,Guarulhos Intl,GBP,140.0,0.15
+N,1325,1,N,Seattle,RT,London (Heathrow),Heathrow,2649,2648.09,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,C,NOA,Seattle-Tacoma International,GBP,140.0,0.16
+N,158,1,N,Seville,RT,London (Gatwick),Gatwick,315,314.48,London,SVQ,Seville,SVQ,LGW,C,EUK,Seville,GBP,40.0,0.38
+Y,1314,1,N,Shanghai,RT,London (Heathrow),Heathrow,2628,2627.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,C,FEA,Shanghai Pudong,GBP,140.0,0.16
+N,1479,1,N,Singapore,RT,London (Heathrow),Heathrow,2957,2956.89,London,SIN,Singapore (Changi),SIN,LHR,C,FEA,Changi,GBP,160.0,0.16
+N,204,1,N,Sofia,RT,London (Heathrow),Heathrow,407,406.39,London,SOF,Sofia,SOF,LHR,C,EUK,Sofia,GBP,80.0,0.59
+Y,193,1,N,Split,RT,London (Heathrow),Heathrow,385,384.69,London,SPU,Split,SPU,LHR,C,EUK,Split,GBP,40.0,0.31
+Y,1181,1,N,St Kitts,RT,London (Gatwick),Gatwick,2361,2360.08,London,SKB,St Kitts,SKB,LGW,C,SOA,Robert L Bradshaw International,GBP,140.0,0.18
+N,1066,1,N,St Lucia,RT,London (Gatwick),Gatwick,2131,2130.18,London,UVF,St Lucia,SLU,LGW,C,SOA,St Lucia,GBP,140.0,0.2
+N,118,1,N,Stockholm,RT,London (Heathrow),Heathrow,235,234.39,London,ARN,Stockholm (Arlanda),STO,LHR,C,EUK,Arlanda,GBP,40.0,0.51
+N,125,1,N,Stuttgart,RT,London (Heathrow),Heathrow,249,248.39,London,STR,Stuttgart,STR,LHR,C,EUK,Stuttgart,GBP,40.0,0.48
+Y,2801,1,N,Sydney,RT,London (Heathrow),Heathrow,5601,5600.69,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,C,FEA,Sydney Kingsford Smith,GBP,240.0,0.13
+N,1206,1,N,Tampa,RT,London (Gatwick),Gatwick,2412,2411.38,London,TPA,Tampa (Tampa International),TPA,LGW,C,NOA,Tampa International,GBP,140.0,0.17
+Y,259,1,N,Thessaloniki,RT,London (Gatwick),Gatwick,517,516.98,London,SKG,Thessaloniki,SKG,LGW,C,EUK,Thessaloniki,GBP,80.0,0.46
+Y,1104,1,N,Tobago,RT,London (Gatwick),Gatwick,2208,2207.08,London,TAB,Tobago,TAB,LGW,C,SOA,Tobago,GBP,140.0,0.19
+N,1625,1,N,Tokyo,RT,London (Heathrow),Heathrow,3250,3249.59,London,HND,Tokyo (Haneda),TYO,LHR,C,FEA,Haneda,GBP,160.0,0.15
+N,1038,1,N,Toronto,RT,London (Heathrow),Heathrow,2076,2075.49,London,YYZ,Toronto,YTO,LHR,C,NOA,Toronto,GBP,140.0,0.2
+N,121,1,N,Toulouse,RT,London (Heathrow),Heathrow,241,240.69,London,TLS,Toulouse,TLS,LHR,C,EUK,Toulouse,GBP,40.0,0.5
+N,137,1,N,Turin,RT,London (Gatwick),Gatwick,273,272.98,London,TRN,Turin,TRN,LGW,C,EUK,Turin,GBP,40.0,0.44
+N,1464,1,N,Vancouver,RT,London (Heathrow),Heathrow,2928,2927.89,London,YVR,Vancouver,YVR,LHR,C,NOA,Vancouver,GBP,140.0,0.14
+N,154,1,N,Venice,RT,London (Heathrow),Heathrow,307,306.59,London,VCE,Venice (Marco Polo),VCE,LHR,C,EUK,Marco Polo,GBP,40.0,0.39
+N,132,1,N,Verona,RT,London (Gatwick),Gatwick,263,262.98,London,VRN,Verona,VRN,LGW,C,EUK,Valerio Catullo,GBP,40.0,0.46
+N,137,1,N,Vienna,RT,London (Heathrow),Heathrow,273,272.89,London,VIE,Vienna,VIE,LHR,C,EUK,Vienna,GBP,40.0,0.44
+N,124,1,N,Warsaw,RT,London (Heathrow),Heathrow,248,247.59,London,WAW,Warsaw,WAW,LHR,C,EUK,Warsaw,GBP,40.0,0.48
+N,135,1,N,Zagreb,RT,London (Heathrow),Heathrow,269,268.49,London,ZAG,Zagreb,ZAG,LHR,C,EUK,Zagreb,GBP,40.0,0.45
+N,152,1,N,Zurich,RT,London (Heathrow),Heathrow,303,302.19,London,ZRH,Zurich,ZRH,LHR,C,EUK,Zurich,GBP,40.0,0.4
+N,2266,1,N,Abuja,RT,London (Heathrow),Heathrow,4532,4531.69,London,ABV,Abuja,ABV,LHR,F,AFR,Abuja,GBP,210.0,0.14
+N,1363,1,N,Atlanta,RT,London (Heathrow),Heathrow,2725,2724.59,London,ATL,Atlanta (Hartsfield-Jackson Int),ATL,LHR,F,NOA,Hartsfield-Jackson Int,GBP,210.0,0.23
+Y,2267,1,N,Bahrain,RT,London (Heathrow),Heathrow,4533,4532.99,London,BAH,Bahrain,BAH,LHR,F,MDE,Bahrain,GBP,210.0,0.14
+Y,7320,1,N,Beijing,RT,London (Heathrow),Heathrow,14639,14638.49,London,PKX,Beijing (Beijing Daxing Intl),BJS,LHR,F,FEA,Beijing Daxing Intl,GBP,210.0,0.04
+N,1588,1,N,Boston,RT,London (Heathrow),Heathrow,3175,3174.59,London,BOS,Boston,BOS,LHR,F,NOA,Logan International,GBP,210.0,0.2
+N,2583,1,N,Cape Town,RT,London (Heathrow),Heathrow,5165,5164.69,London,CPT,Cape Town,CPT,LHR,F,AFR,Cape Town,GBP,240.0,0.14
+N,1516,1,N,Chicago,RT,London (Heathrow),Heathrow,3031,3030.59,London,ORD,Chicago (O'Hare International),CHI,LHR,F,NOA,O'Hare International,GBP,210.0,0.21
+N,1548,1,N,Dallas,RT,London (Heathrow),Heathrow,3096,3095.59,London,DFW,Dallas (Dallas Ft Worth),DFW,LHR,F,NOA,Dallas Ft Worth,GBP,210.0,0.2
+N,1985,1,N,Doha,RT,London (Heathrow),Heathrow,3970,3969.59,London,DOH,Doha,DOH,LHR,F,MDE,Doha,GBP,210.0,0.16
+N,2410,1,N,Dubai,RT,London (Heathrow),Heathrow,4820,4819.59,London,DXB,Dubai,DXB,LHR,F,MDE,Dubai,GBP,210.0,0.13
+N,2376,1,N,Hong Kong,RT,London (Heathrow),Heathrow,4752,4751.69,London,HKG,Hong Kong,HKG,LHR,F,FEA,Hong Kong,GBP,240.0,0.15
+N,1688,1,N,Houston,RT,London (Heathrow),Heathrow,3376,3375.09,London,IAH,Houston (George Bush Intercont),HOU,LHR,F,NOA,George Bush Intercont,GBP,210.0,0.19
+N,2525,1,N,Johannesburg,RT,London (Heathrow),Heathrow,5050,5049.69,London,JNB,Johannesburg,JNB,LHR,F,AFR,Johannesburg,GBP,210.0,0.12
+Y,2859,1,N,Kuwait,RT,London (Heathrow),Heathrow,5718,5717.39,London,KWI,Kuwait,KWI,LHR,F,MDE,Kuwait,GBP,210.0,0.11
+N,2439,1,N,Lagos,RT,London (Heathrow),Heathrow,4878,4877.69,London,LOS,Lagos,LOS,LHR,F,AFR,Lagos,GBP,210.0,0.13
+N,3098,1,N,Los Angeles,RT,London (Heathrow),Heathrow,6196,6195.59,London,LAX,Los Angeles (Los Angeles International),LAX,LHR,F,NOA,Los Angeles International,GBP,210.0,0.1
+N,1693,1,N,Mexico City,RT,London (Heathrow),Heathrow,3386,3385.79,London,MEX,Mexico City (Mexico),MEX,LHR,F,SOA,Mexico,GBP,210.0,0.19
+N,1740,1,N,Miami,RT,London (Heathrow),Heathrow,3479,3478.09,London,MIA,Miami (Miami International),MIA,LHR,F,NOA,Miami International,GBP,210.0,0.18
+N,2749,1,N,Mumbai,RT,London (Heathrow),Heathrow,5498,5497.39,London,BOM,Mumbai,BOM,LHR,F,SAS,Chhatrapati Shivaji Maharaj Intl,GBP,210.0,0.11
+N,1257,1,N,New York,RT,London (Heathrow),Heathrow,2513,2512.59,London,JFK,New York (John F Kennedy),NYC,LHR,F,NOA,John F Kennedy,GBP,210.0,0.25
+N,4129,1,N,Riyadh,RT,London (Heathrow),Heathrow,8258,8257.29,London,RUH,Riyadh,RUH,LHR,F,MDE,King Khalid International,GBP,210.0,0.08
+N,2213,1,N,San Francisco,RT,London (Heathrow),Heathrow,4425,4424.59,London,SFO,San Francisco,SFO,LHR,F,NOA,San Francisco International,GBP,210.0,0.14
+N,2602,1,N,Santiago,RT,London (Heathrow),Heathrow,5204,5203.79,London,SCL,Santiago,SCL,LHR,F,SOA,Santiago,GBP,240.0,0.14
+N,1888,1,N,Seattle,RT,London (Heathrow),Heathrow,3776,3775.09,London,SEA,Seattle (Seattle-Tacoma International),SEA,LHR,F,NOA,Seattle-Tacoma International,GBP,210.0,0.17
+Y,1878,1,N,Shanghai,RT,London (Heathrow),Heathrow,3755,3754.49,London,PVG,Shanghai (Shanghai Pudong),SHA,LHR,F,FEA,Shanghai Pudong,GBP,210.0,0.17
+N,2269,1,N,Singapore,RT,London (Heathrow),Heathrow,4538,4537.89,London,SIN,Singapore (Changi),SIN,LHR,F,FEA,Changi,GBP,240.0,0.16
+Y,3262,1,N,Sydney,RT,London (Heathrow),Heathrow,6523,6522.49,London,SYD,Sydney (Sydney Kingsford Smith),SYD,LHR,F,FEA,Sydney Kingsford Smith,GBP,360.0,0.17
+N,2303,1,N,Tokyo,RT,London (Heathrow),Heathrow,4605,4604.59,London,HND,Tokyo (Haneda),TYO,LHR,F,FEA,Haneda,GBP,240.0,0.16
