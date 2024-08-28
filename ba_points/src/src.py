@@ -1,8 +1,8 @@
 from ba_points.src.api_scraper import get_destinations_prices, get_tier_points
 
 
-def get_prices_tier_points():
-    destination_prices = get_destinations_prices(number_of_nights=1)
+def get_prices_tier_points(number_of_nights=1):
+    destination_prices = get_destinations_prices(number_of_nights=number_of_nights)
     tier_points = get_tier_points()
     df = destination_prices.merge(
         tier_points, on=["arr_city_name", "cabin"], how="left"
